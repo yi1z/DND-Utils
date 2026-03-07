@@ -1,0 +1,1070 @@
+{
+  "source_file": "玩家手册2024/术语汇编/术语速查.htm",
+  "topic_relative_path": "术语汇编/术语速查.htm",
+  "page_path": "玩家手册2024/术语汇编/术语速查.htm",
+  "title": "术语速查",
+  "headings": [
+    "术语释义 Rules Definitions",
+    "【动作】Action",
+    "【效应区域】Area of Effect",
+    "【态度】Attitude",
+    "【状态】Condition",
+    "【危害】 Hazard",
+    "其他术语"
+  ],
+  "paragraphs": [
+    "以下是各种规则术语释义的跳转链接（蓝色文本为跳转链接）。",
+    "攻击疾走撤离回避协助躲藏魔法影响搜索研究预备操作",
+    "锥状立方柱状光环线状球状",
+    "友好、敌对或冷漠。",
+    "燃烧、脱水、坠落、饥饿与窒息。",
+    "属性检定属性值与属性调整值优势冒险阵营盟友护甲等级护甲受训攻击检定同调盲视浴血附赠动作破坏物件明亮光照掘穴速度战役戏法载重挑战等级角色卡攀爬攀爬速度专注掩护匍匐生物生物类型重击诅咒D20检定伤害伤害掷骰伤害阈值伤害类型黑暗黑暗视觉死亡死亡豁免检定困难地形难度等级微光光照劣势遭遇敌人经验值专精飞行飞行速度擒抱治疗重度遮蔽英雄激励跳高生命值骰生命值悬浮幻象免疫临时武器先攻跳跃击晕生物轻度遮蔽跳远长休魔法效应怪物非玩家角色物件已占据空间借机攻击被动察觉每日玩家角色附身熟练反应抗性仪式向下取整豁免豁免检定变形短休同时效应体型技能速度法术法术攻击法器伤势稳定数据卡突袭游泳游泳速度目标心灵感应传送临时生命值震颤感知真实视觉徒手打击未占据空间易伤武器武器攻击",
+    "编注：术语释义原文以首字母排序，不全书录入时为方便查阅，进行了一定的分类。"
+  ],
+  "links": [
+    {
+      "text": "攻击",
+      "href": "./动作.htm#Attack",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Attack",
+      "is_internal": true
+    },
+    {
+      "text": "疾走",
+      "href": "./动作.htm#Dash",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Dash",
+      "is_internal": true
+    },
+    {
+      "text": "撤离",
+      "href": "./动作.htm#Disengage",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Disengage",
+      "is_internal": true
+    },
+    {
+      "text": "回避",
+      "href": "./动作.htm#Dodge",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Dodge",
+      "is_internal": true
+    },
+    {
+      "text": "协助",
+      "href": "./动作.htm#Help",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Help",
+      "is_internal": true
+    },
+    {
+      "text": "躲藏",
+      "href": "./动作.htm#Hide",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Hide",
+      "is_internal": true
+    },
+    {
+      "text": "魔法",
+      "href": "./动作.htm#Magic",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Magic",
+      "is_internal": true
+    },
+    {
+      "text": "影响",
+      "href": "./动作.htm#Influence",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Influence",
+      "is_internal": true
+    },
+    {
+      "text": "搜索",
+      "href": "./动作.htm#Search",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Search",
+      "is_internal": true
+    },
+    {
+      "text": "研究",
+      "href": "./动作.htm#Study",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Study",
+      "is_internal": true
+    },
+    {
+      "text": "预备",
+      "href": "./动作.htm#Ready",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Ready",
+      "is_internal": true
+    },
+    {
+      "text": "操作",
+      "href": "./动作.htm#Utilize",
+      "resolved_path": "玩家手册2024/术语汇编/动作.htm",
+      "anchor": "Utilize",
+      "is_internal": true
+    },
+    {
+      "text": "锥状",
+      "href": "./效应区域.htm#Cone",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Cone",
+      "is_internal": true
+    },
+    {
+      "text": "立方",
+      "href": "./效应区域.htm#Cube",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Cube",
+      "is_internal": true
+    },
+    {
+      "text": "柱状",
+      "href": "./效应区域.htm#Cylinder",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Cylinder",
+      "is_internal": true
+    },
+    {
+      "text": "光环",
+      "href": "./效应区域.htm#Emanation",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Emanation",
+      "is_internal": true
+    },
+    {
+      "text": "线状",
+      "href": "./效应区域.htm#Line",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Line",
+      "is_internal": true
+    },
+    {
+      "text": "球状",
+      "href": "./效应区域.htm#Sphere",
+      "resolved_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "anchor": "Sphere",
+      "is_internal": true
+    },
+    {
+      "text": "友好",
+      "href": "./态度.htm#Friendly",
+      "resolved_path": "玩家手册2024/术语汇编/态度.htm",
+      "anchor": "Friendly",
+      "is_internal": true
+    },
+    {
+      "text": "敌对",
+      "href": "./态度.htm#Hostile",
+      "resolved_path": "玩家手册2024/术语汇编/态度.htm",
+      "anchor": "Hostile",
+      "is_internal": true
+    },
+    {
+      "text": "冷漠",
+      "href": "./态度.htm#Indifferent",
+      "resolved_path": "玩家手册2024/术语汇编/态度.htm",
+      "anchor": "Indifferent",
+      "is_internal": true
+    },
+    {
+      "text": "目盲",
+      "href": "./状态.htm#Blinded",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Blinded",
+      "is_internal": true
+    },
+    {
+      "text": "魅惑",
+      "href": "./状态.htm#Charmed",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Charmed",
+      "is_internal": true
+    },
+    {
+      "text": "耳聋",
+      "href": "./状态.htm#Deafened",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Deafened",
+      "is_internal": true
+    },
+    {
+      "text": "力竭",
+      "href": "./状态.htm#Exhaustion",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Exhaustion",
+      "is_internal": true
+    },
+    {
+      "text": "恐慌",
+      "href": "./状态.htm#Frightened",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Frightened",
+      "is_internal": true
+    },
+    {
+      "text": "受擒",
+      "href": "./状态.htm#Grappled",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Grappled",
+      "is_internal": true
+    },
+    {
+      "text": "失能",
+      "href": "./状态.htm#Incapacitated",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Incapacitated",
+      "is_internal": true
+    },
+    {
+      "text": "隐形",
+      "href": "./状态.htm#Invisible",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Invisible",
+      "is_internal": true
+    },
+    {
+      "text": "麻痹",
+      "href": "./状态.htm#Paralyzed",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Paralyzed",
+      "is_internal": true
+    },
+    {
+      "text": "石化",
+      "href": "./状态.htm#Petrified",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Petrified",
+      "is_internal": true
+    },
+    {
+      "text": "中毒",
+      "href": "./状态.htm#Poisoned",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Poisoned",
+      "is_internal": true
+    },
+    {
+      "text": "倒地",
+      "href": "./状态.htm#Prone",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Prone",
+      "is_internal": true
+    },
+    {
+      "text": "束缚",
+      "href": "./状态.htm#Restrained",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Restrained",
+      "is_internal": true
+    },
+    {
+      "text": "震慑",
+      "href": "./状态.htm#Stunned",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Stunned",
+      "is_internal": true
+    },
+    {
+      "text": "昏迷",
+      "href": "./状态.htm#Unconscious",
+      "resolved_path": "玩家手册2024/术语汇编/状态.htm",
+      "anchor": "Unconscious",
+      "is_internal": true
+    },
+    {
+      "text": "燃烧",
+      "href": "./危害.htm#Burning",
+      "resolved_path": "玩家手册2024/术语汇编/危害.htm",
+      "anchor": "Burning",
+      "is_internal": true
+    },
+    {
+      "text": "脱水",
+      "href": "./危害.htm#Dehydration",
+      "resolved_path": "玩家手册2024/术语汇编/危害.htm",
+      "anchor": "Dehydration",
+      "is_internal": true
+    },
+    {
+      "text": "坠落",
+      "href": "./危害.htm#Falling",
+      "resolved_path": "玩家手册2024/术语汇编/危害.htm",
+      "anchor": "Falling",
+      "is_internal": true
+    },
+    {
+      "text": "饥饿",
+      "href": "./危害.htm#Malnutrition",
+      "resolved_path": "玩家手册2024/术语汇编/危害.htm",
+      "anchor": "Malnutrition",
+      "is_internal": true
+    },
+    {
+      "text": "窒息",
+      "href": "./危害.htm#Suffocation",
+      "resolved_path": "玩家手册2024/术语汇编/危害.htm",
+      "anchor": "Suffocation",
+      "is_internal": true
+    },
+    {
+      "text": "属性检定",
+      "href": "./其他术语.htm#Ability_Check",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Ability_Check",
+      "is_internal": true
+    },
+    {
+      "text": "属性值与属性调整值",
+      "href": "./其他术语.htm#Ability_Score_and_Modifier",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Ability_Score_and_Modifier",
+      "is_internal": true
+    },
+    {
+      "text": "优势",
+      "href": "./其他术语.htm#Advantage",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Advantage",
+      "is_internal": true
+    },
+    {
+      "text": "冒险",
+      "href": "./其他术语.htm#Adventure",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Adventure",
+      "is_internal": true
+    },
+    {
+      "text": "阵营",
+      "href": "./其他术语.htm#Alignment",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Alignment",
+      "is_internal": true
+    },
+    {
+      "text": "盟友",
+      "href": "./其他术语.htm#Ally",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Ally",
+      "is_internal": true
+    },
+    {
+      "text": "护甲等级",
+      "href": "./其他术语.htm#Armor_Class",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Armor_Class",
+      "is_internal": true
+    },
+    {
+      "text": "护甲受训",
+      "href": "./其他术语.htm#Armor_Training",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Armor_Training",
+      "is_internal": true
+    },
+    {
+      "text": "攻击检定",
+      "href": "./其他术语.htm#Attack_Roll",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Attack_Roll",
+      "is_internal": true
+    },
+    {
+      "text": "同调",
+      "href": "./其他术语.htm#Attunement",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Attunement",
+      "is_internal": true
+    },
+    {
+      "text": "盲视",
+      "href": "./其他术语.htm#Blindsight",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Blindsight",
+      "is_internal": true
+    },
+    {
+      "text": "浴血",
+      "href": "./其他术语.htm#Bloodied",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Bloodied",
+      "is_internal": true
+    },
+    {
+      "text": "附赠动作",
+      "href": "./其他术语.htm#Bonus_Action",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Bonus_Action",
+      "is_internal": true
+    },
+    {
+      "text": "破坏物件",
+      "href": "./其他术语.htm#Breaking_Objects",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Breaking_Objects",
+      "is_internal": true
+    },
+    {
+      "text": "明亮光照",
+      "href": "./其他术语.htm#Bright_Light",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Bright_Light",
+      "is_internal": true
+    },
+    {
+      "text": "掘穴速度",
+      "href": "./其他术语.htm#Burrow_Speed",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Burrow_Speed",
+      "is_internal": true
+    },
+    {
+      "text": "战役",
+      "href": "./其他术语.htm#Campaign",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Campaign",
+      "is_internal": true
+    },
+    {
+      "text": "戏法",
+      "href": "./其他术语.htm#Cantrip",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Cantrip",
+      "is_internal": true
+    },
+    {
+      "text": "载重",
+      "href": "./其他术语.htm#Carrying_Capacity",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Carrying_Capacity",
+      "is_internal": true
+    },
+    {
+      "text": "挑战等级",
+      "href": "./其他术语.htm#Challenge_Rating",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Challenge_Rating",
+      "is_internal": true
+    },
+    {
+      "text": "角色卡",
+      "href": "./其他术语.htm#Character_Sheet",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Character_Sheet",
+      "is_internal": true
+    },
+    {
+      "text": "攀爬",
+      "href": "./其他术语.htm#Climbing",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Climbing",
+      "is_internal": true
+    },
+    {
+      "text": "攀爬速度",
+      "href": "./其他术语.htm#Climb_Speed",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Climb_Speed",
+      "is_internal": true
+    },
+    {
+      "text": "专注",
+      "href": "./其他术语.htm#Concentration",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Concentration",
+      "is_internal": true
+    },
+    {
+      "text": "掩护",
+      "href": "./其他术语.htm#Cover",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Cover",
+      "is_internal": true
+    },
+    {
+      "text": "匍匐",
+      "href": "./其他术语.htm#Crawling",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Crawling",
+      "is_internal": true
+    },
+    {
+      "text": "生物",
+      "href": "./其他术语.htm#Creature",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Creature",
+      "is_internal": true
+    },
+    {
+      "text": "生物类型",
+      "href": "./其他术语.htm#Creature_Type",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Creature_Type",
+      "is_internal": true
+    },
+    {
+      "text": "重击",
+      "href": "./其他术语.htm#Critical_Hit",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Critical_Hit",
+      "is_internal": true
+    },
+    {
+      "text": "诅咒",
+      "href": "./其他术语.htm#Curses",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Curses",
+      "is_internal": true
+    },
+    {
+      "text": "D20检定",
+      "href": "./其他术语.htm#D20_Test",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "D20_Test",
+      "is_internal": true
+    },
+    {
+      "text": "伤害",
+      "href": "./其他术语.htm#Damage",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Damage",
+      "is_internal": true
+    },
+    {
+      "text": "伤害掷骰",
+      "href": "./其他术语.htm#Damage_Roll",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Damage_Roll",
+      "is_internal": true
+    },
+    {
+      "text": "伤害阈值",
+      "href": "./其他术语.htm#Damage_Threshold",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Damage_Threshold",
+      "is_internal": true
+    },
+    {
+      "text": "伤害类型",
+      "href": "./其他术语.htm#Damage_Types",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Damage_Types",
+      "is_internal": true
+    },
+    {
+      "text": "黑暗",
+      "href": "./其他术语.htm#Darkness",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Darkness",
+      "is_internal": true
+    },
+    {
+      "text": "黑暗视觉",
+      "href": "./其他术语.htm#Darkvision",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Darkvision",
+      "is_internal": true
+    },
+    {
+      "text": "死亡",
+      "href": "./其他术语.htm#Dead",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Dead",
+      "is_internal": true
+    },
+    {
+      "text": "死亡豁免检定",
+      "href": "./其他术语.htm#Death_Saving_Throw",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Death_Saving_Throw",
+      "is_internal": true
+    },
+    {
+      "text": "困难地形",
+      "href": "./其他术语.htm#Difficult_Terrain",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Difficult_Terrain",
+      "is_internal": true
+    },
+    {
+      "text": "难度等级",
+      "href": "./其他术语.htm#Difficulty_Class",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Difficulty_Class",
+      "is_internal": true
+    },
+    {
+      "text": "微光光照",
+      "href": "./其他术语.htm#Dim_Light",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Dim_Light",
+      "is_internal": true
+    },
+    {
+      "text": "劣势",
+      "href": "./其他术语.htm#Disadvantage",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Disadvantage",
+      "is_internal": true
+    },
+    {
+      "text": "遭遇",
+      "href": "./其他术语.htm#Encounter",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Encounter",
+      "is_internal": true
+    },
+    {
+      "text": "敌人",
+      "href": "./其他术语.htm#Enemy",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Enemy",
+      "is_internal": true
+    },
+    {
+      "text": "经验值",
+      "href": "./其他术语.htm#Experience_Points",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Experience_Points",
+      "is_internal": true
+    },
+    {
+      "text": "专精",
+      "href": "./其他术语.htm#Expertise",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Expertise",
+      "is_internal": true
+    },
+    {
+      "text": "飞行",
+      "href": "./其他术语.htm#Flying",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Flying",
+      "is_internal": true
+    },
+    {
+      "text": "飞行速度",
+      "href": "./其他术语.htm#Fly_Speed",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Fly_Speed",
+      "is_internal": true
+    },
+    {
+      "text": "擒抱",
+      "href": "./其他术语.htm#Grappling",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Grappling",
+      "is_internal": true
+    },
+    {
+      "text": "治疗",
+      "href": "./其他术语.htm#Healing",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Healing",
+      "is_internal": true
+    },
+    {
+      "text": "重度遮蔽",
+      "href": "./其他术语.htm#Heavily_Obscured",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Heavily_Obscured",
+      "is_internal": true
+    },
+    {
+      "text": "英雄激励",
+      "href": "./其他术语.htm#Heroic_Inspiration",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Heroic_Inspiration",
+      "is_internal": true
+    },
+    {
+      "text": "跳高",
+      "href": "./其他术语.htm#High_Jump",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "High_Jump",
+      "is_internal": true
+    },
+    {
+      "text": "生命值骰",
+      "href": "./其他术语.htm#Hit_Point_Dice",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Hit_Point_Dice",
+      "is_internal": true
+    },
+    {
+      "text": "生命值",
+      "href": "./其他术语.htm#Hit_Points",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Hit_Points",
+      "is_internal": true
+    },
+    {
+      "text": "悬浮",
+      "href": "./其他术语.htm#Hover",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Hover",
+      "is_internal": true
+    },
+    {
+      "text": "幻象",
+      "href": "./其他术语.htm#Illusions",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Illusions",
+      "is_internal": true
+    },
+    {
+      "text": "免疫",
+      "href": "./其他术语.htm#Immunity",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Immunity",
+      "is_internal": true
+    },
+    {
+      "text": "临时武器",
+      "href": "./其他术语.htm#Improvised_Weapons",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Improvised_Weapons",
+      "is_internal": true
+    },
+    {
+      "text": "先攻",
+      "href": "./其他术语.htm#Initiative",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Initiative",
+      "is_internal": true
+    },
+    {
+      "text": "跳跃",
+      "href": "./其他术语.htm#Jumping",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Jumping",
+      "is_internal": true
+    },
+    {
+      "text": "击晕生物",
+      "href": "./其他术语.htm#Knocking_Out_a_Creature",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Knocking_Out_a_Creature",
+      "is_internal": true
+    },
+    {
+      "text": "轻度遮蔽",
+      "href": "./其他术语.htm#Lightly_Obscured",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Lightly_Obscured",
+      "is_internal": true
+    },
+    {
+      "text": "跳远",
+      "href": "./其他术语.htm#Long_Jump",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Long_Jump",
+      "is_internal": true
+    },
+    {
+      "text": "长休",
+      "href": "./其他术语.htm#Long_Rest",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Long_Rest",
+      "is_internal": true
+    },
+    {
+      "text": "魔法效应",
+      "href": "./其他术语.htm#Magical_Effect",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Magical_Effect",
+      "is_internal": true
+    },
+    {
+      "text": "怪物",
+      "href": "./其他术语.htm#Monster",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Monster",
+      "is_internal": true
+    },
+    {
+      "text": "非玩家角色",
+      "href": "./其他术语.htm#Nonplayer_Character",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Nonplayer_Character",
+      "is_internal": true
+    },
+    {
+      "text": "物件",
+      "href": "./其他术语.htm#Objects",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Objects",
+      "is_internal": true
+    },
+    {
+      "text": "已占据空间",
+      "href": "./其他术语.htm#Occupied_Space",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Occupied_Space",
+      "is_internal": true
+    },
+    {
+      "text": "借机攻击",
+      "href": "./其他术语.htm#Opportunity_Attacks",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Opportunity_Attacks",
+      "is_internal": true
+    },
+    {
+      "text": "被动察觉",
+      "href": "./其他术语.htm#Passive_Perception",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Passive_Perception",
+      "is_internal": true
+    },
+    {
+      "text": "每日",
+      "href": "./其他术语.htm#Per_Day",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Per_Day",
+      "is_internal": true
+    },
+    {
+      "text": "玩家角色",
+      "href": "./其他术语.htm#Player_Character",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Player_Character",
+      "is_internal": true
+    },
+    {
+      "text": "附身",
+      "href": "./其他术语.htm#Possession",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Possession",
+      "is_internal": true
+    },
+    {
+      "text": "熟练",
+      "href": "./其他术语.htm#Proficiency",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Proficiency",
+      "is_internal": true
+    },
+    {
+      "text": "反应",
+      "href": "./其他术语.htm#Reaction",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Reaction",
+      "is_internal": true
+    },
+    {
+      "text": "抗性",
+      "href": "./其他术语.htm#Resistance",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Resistance",
+      "is_internal": true
+    },
+    {
+      "text": "仪式",
+      "href": "./其他术语.htm#Ritual",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Ritual",
+      "is_internal": true
+    },
+    {
+      "text": "向下取整",
+      "href": "./其他术语.htm#Round_Down",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Round_Down",
+      "is_internal": true
+    },
+    {
+      "text": "豁免",
+      "href": "./其他术语.htm#Save",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Save",
+      "is_internal": true
+    },
+    {
+      "text": "豁免检定",
+      "href": "./其他术语.htm#Saving_Throw",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Saving_Throw",
+      "is_internal": true
+    },
+    {
+      "text": "变形",
+      "href": "./其他术语.htm#Shape-shifting",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Shape-shifting",
+      "is_internal": true
+    },
+    {
+      "text": "短休",
+      "href": "./其他术语.htm#Short_Rest",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Short_Rest",
+      "is_internal": true
+    },
+    {
+      "text": "同时效应",
+      "href": "./其他术语.htm#Simultaneous_Effects",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Simultaneous_Effects",
+      "is_internal": true
+    },
+    {
+      "text": "体型",
+      "href": "./其他术语.htm#Size",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Size",
+      "is_internal": true
+    },
+    {
+      "text": "技能",
+      "href": "./其他术语.htm#Skill",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Skill",
+      "is_internal": true
+    },
+    {
+      "text": "速度",
+      "href": "./其他术语.htm#Speed",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Speed",
+      "is_internal": true
+    },
+    {
+      "text": "法术",
+      "href": "./其他术语.htm#Spell",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Spell",
+      "is_internal": true
+    },
+    {
+      "text": "法术攻击",
+      "href": "./其他术语.htm#Spell_Attack",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Spell_Attack",
+      "is_internal": true
+    },
+    {
+      "text": "法器",
+      "href": "./其他术语.htm#Spellcasting_Focus",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Spellcasting_Focus",
+      "is_internal": true
+    },
+    {
+      "text": "伤势稳定",
+      "href": "./其他术语.htm#Stable",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Stable",
+      "is_internal": true
+    },
+    {
+      "text": "数据卡",
+      "href": "./其他术语.htm#Stat_Block",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Stat_Block",
+      "is_internal": true
+    },
+    {
+      "text": "突袭",
+      "href": "./其他术语.htm#Surprise",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Surprise",
+      "is_internal": true
+    },
+    {
+      "text": "游泳",
+      "href": "./其他术语.htm#Swimming",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Swimming",
+      "is_internal": true
+    },
+    {
+      "text": "游泳速度",
+      "href": "./其他术语.htm#Swim_Speed",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Swim_Speed",
+      "is_internal": true
+    },
+    {
+      "text": "目标",
+      "href": "./其他术语.htm#Target",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Target",
+      "is_internal": true
+    },
+    {
+      "text": "心灵感应",
+      "href": "./其他术语.htm#Telepathy",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Telepathy",
+      "is_internal": true
+    },
+    {
+      "text": "传送",
+      "href": "./其他术语.htm#Teleportation",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Teleportation",
+      "is_internal": true
+    },
+    {
+      "text": "临时生命值",
+      "href": "./其他术语.htm#Temporary_Hit_Points",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Temporary_Hit_Points",
+      "is_internal": true
+    },
+    {
+      "text": "震颤感知",
+      "href": "./其他术语.htm#Tremorsense",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Tremorsense",
+      "is_internal": true
+    },
+    {
+      "text": "真实视觉",
+      "href": "./其他术语.htm#Truesight",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Truesight",
+      "is_internal": true
+    },
+    {
+      "text": "徒手打击",
+      "href": "./其他术语.htm#Unarmed_Strike",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Unarmed_Strike",
+      "is_internal": true
+    },
+    {
+      "text": "未占据空间",
+      "href": "./其他术语.htm#Unoccupied_Space",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Unoccupied_Space",
+      "is_internal": true
+    },
+    {
+      "text": "易伤",
+      "href": "./其他术语.htm#Vulnerability",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Vulnerability",
+      "is_internal": true
+    },
+    {
+      "text": "武器",
+      "href": "./其他术语.htm#Weapon",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Weapon",
+      "is_internal": true
+    },
+    {
+      "text": "武器攻击",
+      "href": "./其他术语.htm#Weapon_Attack",
+      "resolved_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "anchor": "Weapon_Attack",
+      "is_internal": true
+    }
+  ],
+  "text": "术语释义 Rules Definitions 以下是各种规则术语释义的跳转链接（蓝色文本为跳转链接）。 【动作】Action 攻击疾走撤离回避协助躲藏魔法影响搜索研究预备操作 【效应区域】Area of Effect 锥状立方柱状光环线状球状 【态度】Attitude 友好、敌对或冷漠。 【状态】Condition 【危害】 Hazard 燃烧、脱水、坠落、饥饿与窒息。 其他术语 属性检定属性值与属性调整值优势冒险阵营盟友护甲等级护甲受训攻击检定同调盲视浴血附赠动作破坏物件明亮光照掘穴速度战役戏法载重挑战等级角色卡攀爬攀爬速度专注掩护匍匐生物生物类型重击诅咒D20检定伤害伤害掷骰伤害阈值伤害类型黑暗黑暗视觉死亡死亡豁免检定困难地形难度等级微光光照劣势遭遇敌人经验值专精飞行飞行速度擒抱治疗重度遮蔽英雄激励跳高生命值骰生命值悬浮幻象免疫临时武器先攻跳跃击晕生物轻度遮蔽跳远长休魔法效应怪物非玩家角色物件已占据空间借机攻击被动察觉每日玩家角色附身熟练反应抗性仪式向下取整豁免豁免检定变形短休同时效应体型技能速度法术法术攻击法器伤势稳定数据卡突袭游泳游泳速度目标心灵感应传送临时生命值震颤感知真实视觉徒手打击未占据空间易伤武器武器攻击 编注：术语释义原文以首字母排序，不全书录入时为方便查阅，进行了一定的分类。"
+}

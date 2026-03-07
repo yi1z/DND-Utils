@@ -1,0 +1,2189 @@
+{
+  "topic": "玩家手册2024",
+  "source_root": "C:/Users/v2-Za/Desktop/Work/DND Utils/DND-Utils/5echm_web/topics",
+  "topic_root": "C:/Users/v2-Za/Desktop/Work/DND Utils/DND-Utils/5echm_web/topics/玩家手册2024",
+  "generated_at_utc": "2026-03-07T03:34:56.318970+00:00",
+  "page_count": 218,
+  "pages": [
+    {
+      "title": "玩家手册2024",
+      "page_path": "玩家手册2024/Credits.htm",
+      "source_file": "玩家手册2024/Credits.htm",
+      "topic_relative_path": "Credits.htm",
+      "json_file": "pages/Credits.json",
+      "headings_count": 2,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "专长概述",
+      "page_path": "玩家手册2024/专长/专长概述.htm",
+      "source_file": "玩家手册2024/专长/专长概述.htm",
+      "topic_relative_path": "专长/专长概述.htm",
+      "json_file": "pages/专长/专长概述.json",
+      "headings_count": 2,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "传奇恩惠专长",
+      "page_path": "玩家手册2024/专长/传奇恩惠专长.htm",
+      "source_file": "玩家手册2024/专长/传奇恩惠专长.htm",
+      "topic_relative_path": "专长/传奇恩惠专长.htm",
+      "json_file": "pages/专长/传奇恩惠专长.json",
+      "headings_count": 1,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "战斗风格专长",
+      "page_path": "玩家手册2024/专长/战斗风格专长.htm",
+      "source_file": "玩家手册2024/专长/战斗风格专长.htm",
+      "topic_relative_path": "专长/战斗风格专长.htm",
+      "json_file": "pages/专长/战斗风格专长.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "起源专长",
+      "page_path": "玩家手册2024/专长/起源专长.htm",
+      "source_file": "玩家手册2024/专长/起源专长.htm",
+      "topic_relative_path": "专长/起源专长.htm",
+      "json_file": "pages/专长/起源专长.json",
+      "headings_count": 1,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "通用专长",
+      "page_path": "玩家手册2024/专长/通用专长.htm",
+      "source_file": "玩家手册2024/专长/通用专长.htm",
+      "topic_relative_path": "专长/通用专长.htm",
+      "json_file": "pages/专长/通用专长.json",
+      "headings_count": 1,
+      "paragraphs_count": 45,
+      "links_count": 0
+    },
+    {
+      "title": "以更高等级开始",
+      "page_path": "玩家手册2024/创建角色/以更高等级开始.htm",
+      "source_file": "玩家手册2024/创建角色/以更高等级开始.htm",
+      "topic_relative_path": "创建角色/以更高等级开始.htm",
+      "json_file": "pages/创建角色/以更高等级开始.json",
+      "headings_count": 3,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "兼职",
+      "page_path": "玩家手册2024/创建角色/兼职.htm",
+      "source_file": "玩家手册2024/创建角色/兼职.htm",
+      "topic_relative_path": "创建角色/兼职.htm",
+      "json_file": "pages/创建角色/兼职.json",
+      "headings_count": 7,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "创建你的角色",
+      "page_path": "玩家手册2024/创建角色/创建你的角色.htm",
+      "source_file": "玩家手册2024/创建角色/创建你的角色.htm",
+      "topic_relative_path": "创建角色/创建你的角色.htm",
+      "json_file": "pages/创建角色/创建你的角色.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "第一步：选择职业",
+      "page_path": "玩家手册2024/创建角色/第一步：选择职业.htm",
+      "source_file": "玩家手册2024/创建角色/第一步：选择职业.htm",
+      "topic_relative_path": "创建角色/第一步：选择职业.htm",
+      "json_file": "pages/创建角色/第一步：选择职业.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "第三步：确定属性值",
+      "page_path": "玩家手册2024/创建角色/第三步：确定属性值.htm",
+      "source_file": "玩家手册2024/创建角色/第三步：确定属性值.htm",
+      "topic_relative_path": "创建角色/第三步：确定属性值.htm",
+      "json_file": "pages/创建角色/第三步：确定属性值.json",
+      "headings_count": 1,
+      "paragraphs_count": 10,
+      "links_count": 0
+    },
+    {
+      "title": "第二步：确定起源",
+      "page_path": "玩家手册2024/创建角色/第二步：确定起源.htm",
+      "source_file": "玩家手册2024/创建角色/第二步：确定起源.htm",
+      "topic_relative_path": "创建角色/第二步：确定起源.htm",
+      "json_file": "pages/创建角色/第二步：确定起源.json",
+      "headings_count": 1,
+      "paragraphs_count": 10,
+      "links_count": 0
+    },
+    {
+      "title": "第五步：丰富细节",
+      "page_path": "玩家手册2024/创建角色/第五步：丰富细节.htm",
+      "source_file": "玩家手册2024/创建角色/第五步：丰富细节.htm",
+      "topic_relative_path": "创建角色/第五步：丰富细节.htm",
+      "json_file": "pages/创建角色/第五步：丰富细节.json",
+      "headings_count": 1,
+      "paragraphs_count": 15,
+      "links_count": 0
+    },
+    {
+      "title": "第四步：选择阵营",
+      "page_path": "玩家手册2024/创建角色/第四步：选择阵营.htm",
+      "source_file": "玩家手册2024/创建角色/第四步：选择阵营.htm",
+      "topic_relative_path": "创建角色/第四步：选择阵营.htm",
+      "json_file": "pages/创建角色/第四步：选择阵营.json",
+      "headings_count": 1,
+      "paragraphs_count": 24,
+      "links_count": 0
+    },
+    {
+      "title": "等级提升",
+      "page_path": "玩家手册2024/创建角色/等级提升.htm",
+      "source_file": "玩家手册2024/创建角色/等级提升.htm",
+      "topic_relative_path": "创建角色/等级提升.htm",
+      "json_file": "pages/创建角色/等级提升.json",
+      "headings_count": 3,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "饰品",
+      "page_path": "玩家手册2024/创建角色/饰品.htm",
+      "source_file": "玩家手册2024/创建角色/饰品.htm",
+      "topic_relative_path": "创建角色/饰品.htm",
+      "json_file": "pages/创建角色/饰品.json",
+      "headings_count": 1,
+      "paragraphs_count": 102,
+      "links_count": 0
+    },
+    {
+      "title": "内层位面",
+      "page_path": "玩家手册2024/多元宇宙/内层位面.htm",
+      "source_file": "玩家手册2024/多元宇宙/内层位面.htm",
+      "topic_relative_path": "多元宇宙/内层位面.htm",
+      "json_file": "pages/多元宇宙/内层位面.json",
+      "headings_count": 0,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "外层位面",
+      "page_path": "玩家手册2024/多元宇宙/外层位面.htm",
+      "source_file": "玩家手册2024/多元宇宙/外层位面.htm",
+      "topic_relative_path": "多元宇宙/外层位面.htm",
+      "json_file": "pages/多元宇宙/外层位面.json",
+      "headings_count": 0,
+      "paragraphs_count": 40,
+      "links_count": 0
+    },
+    {
+      "title": "物质领域",
+      "page_path": "玩家手册2024/多元宇宙/物质领域.htm",
+      "source_file": "玩家手册2024/多元宇宙/物质领域.htm",
+      "topic_relative_path": "多元宇宙/物质领域.htm",
+      "json_file": "pages/多元宇宙/物质领域.json",
+      "headings_count": 0,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "过渡位面",
+      "page_path": "玩家手册2024/多元宇宙/过渡位面.htm",
+      "source_file": "玩家手册2024/多元宇宙/过渡位面.htm",
+      "topic_relative_path": "多元宇宙/过渡位面.htm",
+      "json_file": "pages/多元宇宙/过渡位面.json",
+      "headings_count": 0,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "序章：欢迎来到冒险世界",
+      "page_path": "玩家手册2024/序章：欢迎来到冒险世界.htm",
+      "source_file": "玩家手册2024/序章：欢迎来到冒险世界.htm",
+      "topic_relative_path": "序章：欢迎来到冒险世界.htm",
+      "json_file": "pages/序章：欢迎来到冒险世界.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "其他术语",
+      "page_path": "玩家手册2024/术语汇编/其他术语.htm",
+      "source_file": "玩家手册2024/术语汇编/其他术语.htm",
+      "topic_relative_path": "术语汇编/其他术语.htm",
+      "json_file": "pages/术语汇编/其他术语.json",
+      "headings_count": 108,
+      "paragraphs_count": 110,
+      "links_count": 0
+    },
+    {
+      "title": "动作",
+      "page_path": "玩家手册2024/术语汇编/动作.htm",
+      "source_file": "玩家手册2024/术语汇编/动作.htm",
+      "topic_relative_path": "术语汇编/动作.htm",
+      "json_file": "pages/术语汇编/动作.json",
+      "headings_count": 13,
+      "paragraphs_count": 27,
+      "links_count": 0
+    },
+    {
+      "title": "危害",
+      "page_path": "玩家手册2024/术语汇编/危害.htm",
+      "source_file": "玩家手册2024/术语汇编/危害.htm",
+      "topic_relative_path": "术语汇编/危害.htm",
+      "json_file": "pages/术语汇编/危害.json",
+      "headings_count": 6,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "态度",
+      "page_path": "玩家手册2024/术语汇编/态度.htm",
+      "source_file": "玩家手册2024/术语汇编/态度.htm",
+      "topic_relative_path": "术语汇编/态度.htm",
+      "json_file": "pages/术语汇编/态度.json",
+      "headings_count": 4,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "效应区域",
+      "page_path": "玩家手册2024/术语汇编/效应区域.htm",
+      "source_file": "玩家手册2024/术语汇编/效应区域.htm",
+      "topic_relative_path": "术语汇编/效应区域.htm",
+      "json_file": "pages/术语汇编/效应区域.json",
+      "headings_count": 7,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "术语速查",
+      "page_path": "玩家手册2024/术语汇编/术语速查.htm",
+      "source_file": "玩家手册2024/术语汇编/术语速查.htm",
+      "topic_relative_path": "术语汇编/术语速查.htm",
+      "json_file": "pages/术语汇编/术语速查.json",
+      "headings_count": 7,
+      "paragraphs_count": 7,
+      "links_count": 149
+    },
+    {
+      "title": "状态",
+      "page_path": "玩家手册2024/术语汇编/状态.htm",
+      "source_file": "玩家手册2024/术语汇编/状态.htm",
+      "topic_relative_path": "术语汇编/状态.htm",
+      "json_file": "pages/术语汇编/状态.json",
+      "headings_count": 16,
+      "paragraphs_count": 16,
+      "links_count": 0
+    },
+    {
+      "title": "你需要什么",
+      "page_path": "玩家手册2024/欢迎/你需要什么.htm",
+      "source_file": "玩家手册2024/欢迎/你需要什么.htm",
+      "topic_relative_path": "欢迎/你需要什么.htm",
+      "json_file": "pages/欢迎/你需要什么.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "使用本书",
+      "page_path": "玩家手册2024/欢迎/使用本书.htm",
+      "source_file": "玩家手册2024/欢迎/使用本书.htm",
+      "topic_relative_path": "欢迎/使用本书.htm",
+      "json_file": "pages/欢迎/使用本书.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "充满冒险的世界",
+      "page_path": "玩家手册2024/欢迎/充满冒险的世界.htm",
+      "source_file": "玩家手册2024/欢迎/充满冒险的世界.htm",
+      "topic_relative_path": "欢迎/充满冒险的世界.htm",
+      "json_file": "pages/欢迎/充满冒险的世界.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "持续时间",
+      "page_path": "玩家手册2024/法术/持续时间.htm",
+      "source_file": "玩家手册2024/法术/持续时间.htm",
+      "topic_relative_path": "法术/持续时间.htm",
+      "json_file": "pages/法术/持续时间.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "施展法术",
+      "page_path": "玩家手册2024/法术/施展法术.htm",
+      "source_file": "玩家手册2024/法术/施展法术.htm",
+      "topic_relative_path": "法术/施展法术.htm",
+      "json_file": "pages/法术/施展法术.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "施法时间",
+      "page_path": "玩家手册2024/法术/施法时间.htm",
+      "source_file": "玩家手册2024/法术/施法时间.htm",
+      "topic_relative_path": "法术/施法时间.htm",
+      "json_file": "pages/法术/施法时间.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "施法距离",
+      "page_path": "玩家手册2024/法术/施法距离.htm",
+      "source_file": "玩家手册2024/法术/施法距离.htm",
+      "topic_relative_path": "法术/施法距离.htm",
+      "json_file": "pages/法术/施法距离.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "法术成分",
+      "page_path": "玩家手册2024/法术/法术成分.htm",
+      "source_file": "玩家手册2024/法术/法术成分.htm",
+      "topic_relative_path": "法术/法术成分.htm",
+      "json_file": "pages/法术/法术成分.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "法术效应",
+      "page_path": "玩家手册2024/法术/法术效应.htm",
+      "source_file": "玩家手册2024/法术/法术效应.htm",
+      "topic_relative_path": "法术/法术效应.htm",
+      "json_file": "pages/法术/法术效应.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "法术环阶",
+      "page_path": "玩家手册2024/法术/法术环阶.htm",
+      "source_file": "玩家手册2024/法术/法术环阶.htm",
+      "topic_relative_path": "法术/法术环阶.htm",
+      "json_file": "pages/法术/法术环阶.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "法术详述",
+      "page_path": "玩家手册2024/法术/法术详述.htm",
+      "source_file": "玩家手册2024/法术/法术详述.htm",
+      "topic_relative_path": "法术/法术详述.htm",
+      "json_file": "pages/法术/法术详述.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "职业法术列表",
+      "page_path": "玩家手册2024/法术/职业法术列表.htm",
+      "source_file": "玩家手册2024/法术/职业法术列表.htm",
+      "topic_relative_path": "法术/职业法术列表.htm",
+      "json_file": "pages/法术/职业法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "获得法术",
+      "page_path": "玩家手册2024/法术/获得法术.htm",
+      "source_file": "玩家手册2024/法术/获得法术.htm",
+      "topic_relative_path": "法术/获得法术.htm",
+      "json_file": "pages/法术/获得法术.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "魔法学派",
+      "page_path": "玩家手册2024/法术/魔法学派.htm",
+      "source_file": "玩家手册2024/法术/魔法学派.htm",
+      "topic_relative_path": "法术/魔法学派.htm",
+      "json_file": "pages/法术/魔法学派.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "戏法（零环）",
+      "page_path": "玩家手册2024/法术详述/0环.htm",
+      "source_file": "玩家手册2024/法术详述/0环.htm",
+      "topic_relative_path": "法术详述/0环.htm",
+      "json_file": "pages/法术详述/0环.json",
+      "headings_count": 34,
+      "paragraphs_count": 39,
+      "links_count": 0
+    },
+    {
+      "title": "一环",
+      "page_path": "玩家手册2024/法术详述/1环.htm",
+      "source_file": "玩家手册2024/法术详述/1环.htm",
+      "topic_relative_path": "法术详述/1环.htm",
+      "json_file": "pages/法术详述/1环.json",
+      "headings_count": 64,
+      "paragraphs_count": 67,
+      "links_count": 0
+    },
+    {
+      "title": "二环",
+      "page_path": "玩家手册2024/法术详述/2环.htm",
+      "source_file": "玩家手册2024/法术详述/2环.htm",
+      "topic_relative_path": "法术详述/2环.htm",
+      "json_file": "pages/法术详述/2环.json",
+      "headings_count": 68,
+      "paragraphs_count": 72,
+      "links_count": 0
+    },
+    {
+      "title": "三环",
+      "page_path": "玩家手册2024/法术详述/3环.htm",
+      "source_file": "玩家手册2024/法术详述/3环.htm",
+      "topic_relative_path": "法术详述/3环.htm",
+      "json_file": "pages/法术详述/3环.json",
+      "headings_count": 57,
+      "paragraphs_count": 61,
+      "links_count": 0
+    },
+    {
+      "title": "四环",
+      "page_path": "玩家手册2024/法术详述/4环.htm",
+      "source_file": "玩家手册2024/法术详述/4环.htm",
+      "topic_relative_path": "法术详述/4环.htm",
+      "json_file": "pages/法术详述/4环.json",
+      "headings_count": 49,
+      "paragraphs_count": 59,
+      "links_count": 0
+    },
+    {
+      "title": "五环",
+      "page_path": "玩家手册2024/法术详述/5环.htm",
+      "source_file": "玩家手册2024/法术详述/5环.htm",
+      "topic_relative_path": "法术详述/5环.htm",
+      "json_file": "pages/法术详述/5环.json",
+      "headings_count": 53,
+      "paragraphs_count": 69,
+      "links_count": 0
+    },
+    {
+      "title": "六环",
+      "page_path": "玩家手册2024/法术详述/6环.htm",
+      "source_file": "玩家手册2024/法术详述/6环.htm",
+      "topic_relative_path": "法术详述/6环.htm",
+      "json_file": "pages/法术详述/6环.json",
+      "headings_count": 37,
+      "paragraphs_count": 35,
+      "links_count": 0
+    },
+    {
+      "title": "七环",
+      "page_path": "玩家手册2024/法术详述/7环.htm",
+      "source_file": "玩家手册2024/法术详述/7环.htm",
+      "topic_relative_path": "法术详述/7环.htm",
+      "json_file": "pages/法术详述/7环.json",
+      "headings_count": 21,
+      "paragraphs_count": 71,
+      "links_count": 0
+    },
+    {
+      "title": "八环",
+      "page_path": "玩家手册2024/法术详述/8环.htm",
+      "source_file": "玩家手册2024/法术详述/8环.htm",
+      "topic_relative_path": "法术详述/8环.htm",
+      "json_file": "pages/法术详述/8环.json",
+      "headings_count": 18,
+      "paragraphs_count": 21,
+      "links_count": 0
+    },
+    {
+      "title": "九环",
+      "page_path": "玩家手册2024/法术详述/9环.htm",
+      "source_file": "玩家手册2024/法术详述/9环.htm",
+      "topic_relative_path": "法术详述/9环.htm",
+      "json_file": "pages/法术详述/9环.json",
+      "headings_count": 16,
+      "paragraphs_count": 23,
+      "links_count": 0
+    },
+    {
+      "title": "第一章：进行游戏",
+      "page_path": "玩家手册2024/第一章：进行游戏.htm",
+      "source_file": "玩家手册2024/第一章：进行游戏.htm",
+      "topic_relative_path": "第一章：进行游戏.htm",
+      "json_file": "pages/第一章：进行游戏.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "第七章：法术",
+      "page_path": "玩家手册2024/第七章：法术.htm",
+      "source_file": "玩家手册2024/第七章：法术.htm",
+      "topic_relative_path": "第七章：法术.htm",
+      "json_file": "pages/第七章：法术.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "第三章：角色职业",
+      "page_path": "玩家手册2024/第三章：角色职业.htm",
+      "source_file": "玩家手册2024/第三章：角色职业.htm",
+      "topic_relative_path": "第三章：角色职业.htm",
+      "json_file": "pages/第三章：角色职业.json",
+      "headings_count": 1,
+      "paragraphs_count": 37,
+      "links_count": 0
+    },
+    {
+      "title": "第二章：创建角色",
+      "page_path": "玩家手册2024/第二章：创建角色.htm",
+      "source_file": "玩家手册2024/第二章：创建角色.htm",
+      "topic_relative_path": "第二章：创建角色.htm",
+      "json_file": "pages/第二章：创建角色.json",
+      "headings_count": 4,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "第五章：专长",
+      "page_path": "玩家手册2024/第五章：专长.htm",
+      "source_file": "玩家手册2024/第五章：专长.htm",
+      "topic_relative_path": "第五章：专长.htm",
+      "json_file": "pages/第五章：专长.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "第六章：装备",
+      "page_path": "玩家手册2024/第六章：装备.htm",
+      "source_file": "玩家手册2024/第六章：装备.htm",
+      "topic_relative_path": "第六章：装备.htm",
+      "json_file": "pages/第六章：装备.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "第四章：角色起源",
+      "page_path": "玩家手册2024/第四章：角色起源.htm",
+      "source_file": "玩家手册2024/第四章：角色起源.htm",
+      "topic_relative_path": "第四章：角色起源.htm",
+      "json_file": "pages/第四章：角色起源.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "其他工具",
+      "page_path": "玩家手册2024/装备/其他工具.htm",
+      "source_file": "玩家手册2024/装备/其他工具.htm",
+      "topic_relative_path": "装备/其他工具.htm",
+      "json_file": "pages/装备/其他工具.json",
+      "headings_count": 1,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "冒险装备",
+      "page_path": "玩家手册2024/装备/冒险装备.htm",
+      "source_file": "玩家手册2024/装备/冒险装备.htm",
+      "topic_relative_path": "装备/冒险装备.htm",
+      "json_file": "pages/装备/冒险装备.json",
+      "headings_count": 1,
+      "paragraphs_count": 89,
+      "links_count": 0
+    },
+    {
+      "title": "制作装备",
+      "page_path": "玩家手册2024/装备/制作装备.htm",
+      "source_file": "玩家手册2024/装备/制作装备.htm",
+      "topic_relative_path": "装备/制作装备.htm",
+      "json_file": "pages/装备/制作装备.json",
+      "headings_count": 4,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "坐骑与载具",
+      "page_path": "玩家手册2024/装备/坐骑与载具.htm",
+      "source_file": "玩家手册2024/装备/坐骑与载具.htm",
+      "topic_relative_path": "装备/坐骑与载具.htm",
+      "json_file": "pages/装备/坐骑与载具.json",
+      "headings_count": 5,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "工具",
+      "page_path": "玩家手册2024/装备/工具.htm",
+      "source_file": "玩家手册2024/装备/工具.htm",
+      "topic_relative_path": "装备/工具.htm",
+      "json_file": "pages/装备/工具.json",
+      "headings_count": 2,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "工匠工具",
+      "page_path": "玩家手册2024/装备/工匠工具.htm",
+      "source_file": "玩家手册2024/装备/工匠工具.htm",
+      "topic_relative_path": "装备/工匠工具.htm",
+      "json_file": "pages/装备/工匠工具.json",
+      "headings_count": 1,
+      "paragraphs_count": 18,
+      "links_count": 0
+    },
+    {
+      "title": "护甲",
+      "page_path": "玩家手册2024/装备/护甲.htm",
+      "source_file": "玩家手册2024/装备/护甲.htm",
+      "topic_relative_path": "装备/护甲.htm",
+      "json_file": "pages/装备/护甲.json",
+      "headings_count": 3,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "服务",
+      "page_path": "玩家手册2024/装备/服务.htm",
+      "source_file": "玩家手册2024/装备/服务.htm",
+      "topic_relative_path": "装备/服务.htm",
+      "json_file": "pages/装备/服务.json",
+      "headings_count": 6,
+      "paragraphs_count": 17,
+      "links_count": 0
+    },
+    {
+      "title": "武器",
+      "page_path": "玩家手册2024/装备/武器.htm",
+      "source_file": "玩家手册2024/装备/武器.htm",
+      "topic_relative_path": "装备/武器.htm",
+      "json_file": "pages/装备/武器.json",
+      "headings_count": 2,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "精通词条",
+      "page_path": "玩家手册2024/装备/精通词条.htm",
+      "source_file": "玩家手册2024/装备/精通词条.htm",
+      "topic_relative_path": "装备/精通词条.htm",
+      "json_file": "pages/装备/精通词条.json",
+      "headings_count": 1,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "词条",
+      "page_path": "玩家手册2024/装备/词条.htm",
+      "source_file": "玩家手册2024/装备/词条.htm",
+      "topic_relative_path": "装备/词条.htm",
+      "json_file": "pages/装备/词条.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "钱币",
+      "page_path": "玩家手册2024/装备/钱币.htm",
+      "source_file": "玩家手册2024/装备/钱币.htm",
+      "topic_relative_path": "装备/钱币.htm",
+      "json_file": "pages/装备/钱币.json",
+      "headings_count": 1,
+      "paragraphs_count": 14,
+      "links_count": 0
+    },
+    {
+      "title": "魔法物品",
+      "page_path": "玩家手册2024/装备/魔法物品.htm",
+      "source_file": "玩家手册2024/装备/魔法物品.htm",
+      "topic_relative_path": "装备/魔法物品.htm",
+      "json_file": "pages/装备/魔法物品.json",
+      "headings_count": 4,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "勇气学院",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/勇气学院.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/勇气学院.htm",
+      "topic_relative_path": "角色职业/吟游诗人/勇气学院.htm",
+      "json_file": "pages/角色职业/吟游诗人/勇气学院.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "吟游诗人",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/吟游诗人.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/吟游诗人.htm",
+      "topic_relative_path": "角色职业/吟游诗人/吟游诗人.htm",
+      "json_file": "pages/角色职业/吟游诗人/吟游诗人.json",
+      "headings_count": 3,
+      "paragraphs_count": 20,
+      "links_count": 0
+    },
+    {
+      "title": "吟游诗人法术列表",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/吟游诗人法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/吟游诗人法术列表.htm",
+      "topic_relative_path": "角色职业/吟游诗人/吟游诗人法术列表.htm",
+      "json_file": "pages/角色职业/吟游诗人/吟游诗人法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "舞蹈学院",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/舞蹈学院.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/舞蹈学院.htm",
+      "topic_relative_path": "角色职业/吟游诗人/舞蹈学院.htm",
+      "json_file": "pages/角色职业/吟游诗人/舞蹈学院.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "逸闻学院",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/逸闻学院.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/逸闻学院.htm",
+      "topic_relative_path": "角色职业/吟游诗人/逸闻学院.htm",
+      "json_file": "pages/角色职业/吟游诗人/逸闻学院.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "魅心学院",
+      "page_path": "玩家手册2024/角色职业/吟游诗人/魅心学院.htm",
+      "source_file": "玩家手册2024/角色职业/吟游诗人/魅心学院.htm",
+      "topic_relative_path": "角色职业/吟游诗人/魅心学院.htm",
+      "json_file": "pages/角色职业/吟游诗人/魅心学院.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "古贤之誓",
+      "page_path": "玩家手册2024/角色职业/圣武士/古贤之誓.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/古贤之誓.htm",
+      "topic_relative_path": "角色职业/圣武士/古贤之誓.htm",
+      "json_file": "pages/角色职业/圣武士/古贤之誓.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "圣武士",
+      "page_path": "玩家手册2024/角色职业/圣武士/圣武士.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/圣武士.htm",
+      "topic_relative_path": "角色职业/圣武士/圣武士.htm",
+      "json_file": "pages/角色职业/圣武士/圣武士.json",
+      "headings_count": 3,
+      "paragraphs_count": 25,
+      "links_count": 0
+    },
+    {
+      "title": "圣武士法术列表",
+      "page_path": "玩家手册2024/角色职业/圣武士/圣武士法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/圣武士法术列表.htm",
+      "topic_relative_path": "角色职业/圣武士/圣武士法术列表.htm",
+      "json_file": "pages/角色职业/圣武士/圣武士法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "复仇之誓",
+      "page_path": "玩家手册2024/角色职业/圣武士/复仇之誓.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/复仇之誓.htm",
+      "topic_relative_path": "角色职业/圣武士/复仇之誓.htm",
+      "json_file": "pages/角色职业/圣武士/复仇之誓.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "奉献之誓",
+      "page_path": "玩家手册2024/角色职业/圣武士/奉献之誓.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/奉献之誓.htm",
+      "topic_relative_path": "角色职业/圣武士/奉献之誓.htm",
+      "json_file": "pages/角色职业/圣武士/奉献之誓.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "荣耀之誓",
+      "page_path": "玩家手册2024/角色职业/圣武士/荣耀之誓.htm",
+      "source_file": "玩家手册2024/角色职业/圣武士/荣耀之誓.htm",
+      "topic_relative_path": "角色职业/圣武士/荣耀之誓.htm",
+      "json_file": "pages/角色职业/圣武士/荣耀之誓.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "大地结社",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/大地结社.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/大地结社.htm",
+      "topic_relative_path": "角色职业/德鲁伊/大地结社.htm",
+      "json_file": "pages/角色职业/德鲁伊/大地结社.json",
+      "headings_count": 1,
+      "paragraphs_count": 37,
+      "links_count": 0
+    },
+    {
+      "title": "德鲁伊",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/德鲁伊.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/德鲁伊.htm",
+      "topic_relative_path": "角色职业/德鲁伊/德鲁伊.htm",
+      "json_file": "pages/角色职业/德鲁伊/德鲁伊.json",
+      "headings_count": 3,
+      "paragraphs_count": 23,
+      "links_count": 0
+    },
+    {
+      "title": "德鲁伊法术列表",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/德鲁伊法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/德鲁伊法术列表.htm",
+      "topic_relative_path": "角色职业/德鲁伊/德鲁伊法术列表.htm",
+      "json_file": "pages/角色职业/德鲁伊/德鲁伊法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "星辰结社",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/星辰结社.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/星辰结社.htm",
+      "topic_relative_path": "角色职业/德鲁伊/星辰结社.htm",
+      "json_file": "pages/角色职业/德鲁伊/星辰结社.json",
+      "headings_count": 1,
+      "paragraphs_count": 21,
+      "links_count": 0
+    },
+    {
+      "title": "月亮结社",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/月亮结社.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/月亮结社.htm",
+      "topic_relative_path": "角色职业/德鲁伊/月亮结社.htm",
+      "json_file": "pages/角色职业/德鲁伊/月亮结社.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "海洋结社",
+      "page_path": "玩家手册2024/角色职业/德鲁伊/海洋结社.htm",
+      "source_file": "玩家手册2024/角色职业/德鲁伊/海洋结社.htm",
+      "topic_relative_path": "角色职业/德鲁伊/海洋结社.htm",
+      "json_file": "pages/角色职业/德鲁伊/海洋结社.json",
+      "headings_count": 1,
+      "paragraphs_count": 18,
+      "links_count": 0
+    },
+    {
+      "title": "勇士",
+      "page_path": "玩家手册2024/角色职业/战士/勇士.htm",
+      "source_file": "玩家手册2024/角色职业/战士/勇士.htm",
+      "topic_relative_path": "角色职业/战士/勇士.htm",
+      "json_file": "pages/角色职业/战士/勇士.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "奥法骑士",
+      "page_path": "玩家手册2024/角色职业/战士/奥法骑士.htm",
+      "source_file": "玩家手册2024/角色职业/战士/奥法骑士.htm",
+      "topic_relative_path": "角色职业/战士/奥法骑士.htm",
+      "json_file": "pages/角色职业/战士/奥法骑士.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "战士",
+      "page_path": "玩家手册2024/角色职业/战士/战士.htm",
+      "source_file": "玩家手册2024/角色职业/战士/战士.htm",
+      "topic_relative_path": "角色职业/战士/战士.htm",
+      "json_file": "pages/角色职业/战士/战士.json",
+      "headings_count": 3,
+      "paragraphs_count": 22,
+      "links_count": 0
+    },
+    {
+      "title": "战斗大师",
+      "page_path": "玩家手册2024/角色职业/战士/战斗大师.htm",
+      "source_file": "玩家手册2024/角色职业/战士/战斗大师.htm",
+      "topic_relative_path": "角色职业/战士/战斗大师.htm",
+      "json_file": "pages/角色职业/战士/战斗大师.json",
+      "headings_count": 2,
+      "paragraphs_count": 29,
+      "links_count": 0
+    },
+    {
+      "title": "灵能武士",
+      "page_path": "玩家手册2024/角色职业/战士/灵能武士.htm",
+      "source_file": "玩家手册2024/角色职业/战士/灵能武士.htm",
+      "topic_relative_path": "角色职业/战士/灵能武士.htm",
+      "json_file": "pages/角色职业/战士/灵能武士.json",
+      "headings_count": 1,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "时械术法",
+      "page_path": "玩家手册2024/角色职业/术士/时械术法.htm",
+      "source_file": "玩家手册2024/角色职业/术士/时械术法.htm",
+      "topic_relative_path": "角色职业/术士/时械术法.htm",
+      "json_file": "pages/角色职业/术士/时械术法.json",
+      "headings_count": 1,
+      "paragraphs_count": 30,
+      "links_count": 0
+    },
+    {
+      "title": "术士",
+      "page_path": "玩家手册2024/角色职业/术士/术士.htm",
+      "source_file": "玩家手册2024/角色职业/术士/术士.htm",
+      "topic_relative_path": "角色职业/术士/术士.htm",
+      "json_file": "pages/角色职业/术士/术士.json",
+      "headings_count": 3,
+      "paragraphs_count": 34,
+      "links_count": 0
+    },
+    {
+      "title": "术士法术列表",
+      "page_path": "玩家手册2024/角色职业/术士/术士法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/术士/术士法术列表.htm",
+      "topic_relative_path": "角色职业/术士/术士法术列表.htm",
+      "json_file": "pages/角色职业/术士/术士法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "狂野术法",
+      "page_path": "玩家手册2024/角色职业/术士/狂野术法.htm",
+      "source_file": "玩家手册2024/角色职业/术士/狂野术法.htm",
+      "topic_relative_path": "角色职业/术士/狂野术法.htm",
+      "json_file": "pages/角色职业/术士/狂野术法.json",
+      "headings_count": 1,
+      "paragraphs_count": 32,
+      "links_count": 0
+    },
+    {
+      "title": "畸变术法",
+      "page_path": "玩家手册2024/角色职业/术士/畸变术法.htm",
+      "source_file": "玩家手册2024/角色职业/术士/畸变术法.htm",
+      "topic_relative_path": "角色职业/术士/畸变术法.htm",
+      "json_file": "pages/角色职业/术士/畸变术法.json",
+      "headings_count": 1,
+      "paragraphs_count": 17,
+      "links_count": 0
+    },
+    {
+      "title": "超魔法选项",
+      "page_path": "玩家手册2024/角色职业/术士/超魔法选项.htm",
+      "source_file": "玩家手册2024/角色职业/术士/超魔法选项.htm",
+      "topic_relative_path": "角色职业/术士/超魔法选项.htm",
+      "json_file": "pages/角色职业/术士/超魔法选项.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "龙族术法",
+      "page_path": "玩家手册2024/角色职业/术士/龙族术法.htm",
+      "source_file": "玩家手册2024/角色职业/术士/龙族术法.htm",
+      "topic_relative_path": "角色职业/术士/龙族术法.htm",
+      "json_file": "pages/角色职业/术士/龙族术法.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "命流武者",
+      "page_path": "玩家手册2024/角色职业/武僧/命流武者.htm",
+      "source_file": "玩家手册2024/角色职业/武僧/命流武者.htm",
+      "topic_relative_path": "角色职业/武僧/命流武者.htm",
+      "json_file": "pages/角色职业/武僧/命流武者.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "四象武者",
+      "page_path": "玩家手册2024/角色职业/武僧/四象武者.htm",
+      "source_file": "玩家手册2024/角色职业/武僧/四象武者.htm",
+      "topic_relative_path": "角色职业/武僧/四象武者.htm",
+      "json_file": "pages/角色职业/武僧/四象武者.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "散打武者",
+      "page_path": "玩家手册2024/角色职业/武僧/散打武者.htm",
+      "source_file": "玩家手册2024/角色职业/武僧/散打武者.htm",
+      "topic_relative_path": "角色职业/武僧/散打武者.htm",
+      "json_file": "pages/角色职业/武僧/散打武者.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "暗影武者",
+      "page_path": "玩家手册2024/角色职业/武僧/暗影武者.htm",
+      "source_file": "玩家手册2024/角色职业/武僧/暗影武者.htm",
+      "topic_relative_path": "角色职业/武僧/暗影武者.htm",
+      "json_file": "pages/角色职业/武僧/暗影武者.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "武僧",
+      "page_path": "玩家手册2024/角色职业/武僧/武僧.htm",
+      "source_file": "玩家手册2024/角色职业/武僧/武僧.htm",
+      "topic_relative_path": "角色职业/武僧/武僧.htm",
+      "json_file": "pages/角色职业/武僧/武僧.json",
+      "headings_count": 3,
+      "paragraphs_count": 30,
+      "links_count": 0
+    },
+    {
+      "title": "塑能师",
+      "page_path": "玩家手册2024/角色职业/法师/塑能师.htm",
+      "source_file": "玩家手册2024/角色职业/法师/塑能师.htm",
+      "topic_relative_path": "角色职业/法师/塑能师.htm",
+      "json_file": "pages/角色职业/法师/塑能师.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "幻术师",
+      "page_path": "玩家手册2024/角色职业/法师/幻术师.htm",
+      "source_file": "玩家手册2024/角色职业/法师/幻术师.htm",
+      "topic_relative_path": "角色职业/法师/幻术师.htm",
+      "json_file": "pages/角色职业/法师/幻术师.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "法师",
+      "page_path": "玩家手册2024/角色职业/法师/法师.htm",
+      "source_file": "玩家手册2024/角色职业/法师/法师.htm",
+      "topic_relative_path": "角色职业/法师/法师.htm",
+      "json_file": "pages/角色职业/法师/法师.json",
+      "headings_count": 4,
+      "paragraphs_count": 20,
+      "links_count": 0
+    },
+    {
+      "title": "法师法术列表",
+      "page_path": "玩家手册2024/角色职业/法师/法师法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/法师/法师法术列表.htm",
+      "topic_relative_path": "角色职业/法师/法师法术列表.htm",
+      "json_file": "pages/角色职业/法师/法师法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 10,
+      "links_count": 0
+    },
+    {
+      "title": "防护师",
+      "page_path": "玩家手册2024/角色职业/法师/防护师.htm",
+      "source_file": "玩家手册2024/角色职业/法师/防护师.htm",
+      "topic_relative_path": "角色职业/法师/防护师.htm",
+      "json_file": "pages/角色职业/法师/防护师.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "预言师",
+      "page_path": "玩家手册2024/角色职业/法师/预言师.htm",
+      "source_file": "玩家手册2024/角色职业/法师/预言师.htm",
+      "topic_relative_path": "角色职业/法师/预言师.htm",
+      "json_file": "pages/角色职业/法师/预言师.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "妖精漫游者",
+      "page_path": "玩家手册2024/角色职业/游侠/妖精漫游者.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/妖精漫游者.htm",
+      "topic_relative_path": "角色职业/游侠/妖精漫游者.htm",
+      "json_file": "pages/角色职业/游侠/妖精漫游者.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "幽域追猎者",
+      "page_path": "玩家手册2024/角色职业/游侠/幽域追猎者.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/幽域追猎者.htm",
+      "topic_relative_path": "角色职业/游侠/幽域追猎者.htm",
+      "json_file": "pages/角色职业/游侠/幽域追猎者.json",
+      "headings_count": 1,
+      "paragraphs_count": 21,
+      "links_count": 0
+    },
+    {
+      "title": "游侠",
+      "page_path": "玩家手册2024/角色职业/游侠/游侠.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/游侠.htm",
+      "topic_relative_path": "角色职业/游侠/游侠.htm",
+      "json_file": "pages/角色职业/游侠/游侠.json",
+      "headings_count": 3,
+      "paragraphs_count": 24,
+      "links_count": 0
+    },
+    {
+      "title": "游侠法术列表",
+      "page_path": "玩家手册2024/角色职业/游侠/游侠法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/游侠法术列表.htm",
+      "topic_relative_path": "角色职业/游侠/游侠法术列表.htm",
+      "json_file": "pages/角色职业/游侠/游侠法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "猎人",
+      "page_path": "玩家手册2024/角色职业/游侠/猎人.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/猎人.htm",
+      "topic_relative_path": "角色职业/游侠/猎人.htm",
+      "json_file": "pages/角色职业/游侠/猎人.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "驯兽师",
+      "page_path": "玩家手册2024/角色职业/游侠/驯兽师.htm",
+      "source_file": "玩家手册2024/角色职业/游侠/驯兽师.htm",
+      "topic_relative_path": "角色职业/游侠/驯兽师.htm",
+      "json_file": "pages/角色职业/游侠/驯兽师.json",
+      "headings_count": 6,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "刺客",
+      "page_path": "玩家手册2024/角色职业/游荡者/刺客.htm",
+      "source_file": "玩家手册2024/角色职业/游荡者/刺客.htm",
+      "topic_relative_path": "角色职业/游荡者/刺客.htm",
+      "json_file": "pages/角色职业/游荡者/刺客.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "游荡者",
+      "page_path": "玩家手册2024/角色职业/游荡者/游荡者.htm",
+      "source_file": "玩家手册2024/角色职业/游荡者/游荡者.htm",
+      "topic_relative_path": "角色职业/游荡者/游荡者.htm",
+      "json_file": "pages/角色职业/游荡者/游荡者.json",
+      "headings_count": 3,
+      "paragraphs_count": 25,
+      "links_count": 0
+    },
+    {
+      "title": "盗贼",
+      "page_path": "玩家手册2024/角色职业/游荡者/盗贼.htm",
+      "source_file": "玩家手册2024/角色职业/游荡者/盗贼.htm",
+      "topic_relative_path": "角色职业/游荡者/盗贼.htm",
+      "json_file": "pages/角色职业/游荡者/盗贼.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "诡术师",
+      "page_path": "玩家手册2024/角色职业/游荡者/诡术师.htm",
+      "source_file": "玩家手册2024/角色职业/游荡者/诡术师.htm",
+      "topic_relative_path": "角色职业/游荡者/诡术师.htm",
+      "json_file": "pages/角色职业/游荡者/诡术师.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "魂刃",
+      "page_path": "玩家手册2024/角色职业/游荡者/魂刃.htm",
+      "source_file": "玩家手册2024/角色职业/游荡者/魂刃.htm",
+      "topic_relative_path": "角色职业/游荡者/魂刃.htm",
+      "json_file": "pages/角色职业/游荡者/魂刃.json",
+      "headings_count": 1,
+      "paragraphs_count": 14,
+      "links_count": 0
+    },
+    {
+      "title": "光明领域",
+      "page_path": "玩家手册2024/角色职业/牧师/光明领域.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/光明领域.htm",
+      "topic_relative_path": "角色职业/牧师/光明领域.htm",
+      "json_file": "pages/角色职业/牧师/光明领域.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "战争领域",
+      "page_path": "玩家手册2024/角色职业/牧师/战争领域.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/战争领域.htm",
+      "topic_relative_path": "角色职业/牧师/战争领域.htm",
+      "json_file": "pages/角色职业/牧师/战争领域.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "牧师",
+      "page_path": "玩家手册2024/角色职业/牧师/牧师.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/牧师.htm",
+      "topic_relative_path": "角色职业/牧师/牧师.htm",
+      "json_file": "pages/角色职业/牧师/牧师.json",
+      "headings_count": 3,
+      "paragraphs_count": 18,
+      "links_count": 0
+    },
+    {
+      "title": "牧师法术列表",
+      "page_path": "玩家手册2024/角色职业/牧师/牧师法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/牧师法术列表.htm",
+      "topic_relative_path": "角色职业/牧师/牧师法术列表.htm",
+      "json_file": "pages/角色职业/牧师/牧师法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "生命领域",
+      "page_path": "玩家手册2024/角色职业/牧师/生命领域.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/生命领域.htm",
+      "topic_relative_path": "角色职业/牧师/生命领域.htm",
+      "json_file": "pages/角色职业/牧师/生命领域.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "诡术领域",
+      "page_path": "玩家手册2024/角色职业/牧师/诡术领域.htm",
+      "source_file": "玩家手册2024/角色职业/牧师/诡术领域.htm",
+      "topic_relative_path": "角色职业/牧师/诡术领域.htm",
+      "json_file": "pages/角色职业/牧师/诡术领域.json",
+      "headings_count": 1,
+      "paragraphs_count": 12,
+      "links_count": 0
+    },
+    {
+      "title": "世界树道途",
+      "page_path": "玩家手册2024/角色职业/野蛮人/世界树道途.htm",
+      "source_file": "玩家手册2024/角色职业/野蛮人/世界树道途.htm",
+      "topic_relative_path": "角色职业/野蛮人/世界树道途.htm",
+      "json_file": "pages/角色职业/野蛮人/世界树道途.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "兽心道途",
+      "page_path": "玩家手册2024/角色职业/野蛮人/兽心道途.htm",
+      "source_file": "玩家手册2024/角色职业/野蛮人/兽心道途.htm",
+      "topic_relative_path": "角色职业/野蛮人/兽心道途.htm",
+      "json_file": "pages/角色职业/野蛮人/兽心道途.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "狂战士道途",
+      "page_path": "玩家手册2024/角色职业/野蛮人/狂战士道途.htm",
+      "source_file": "玩家手册2024/角色职业/野蛮人/狂战士道途.htm",
+      "topic_relative_path": "角色职业/野蛮人/狂战士道途.htm",
+      "json_file": "pages/角色职业/野蛮人/狂战士道途.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "狂热者道途",
+      "page_path": "玩家手册2024/角色职业/野蛮人/狂热者道途.htm",
+      "source_file": "玩家手册2024/角色职业/野蛮人/狂热者道途.htm",
+      "topic_relative_path": "角色职业/野蛮人/狂热者道途.htm",
+      "json_file": "pages/角色职业/野蛮人/狂热者道途.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "野蛮人",
+      "page_path": "玩家手册2024/角色职业/野蛮人/野蛮人.htm",
+      "source_file": "玩家手册2024/角色职业/野蛮人/野蛮人.htm",
+      "topic_relative_path": "角色职业/野蛮人/野蛮人.htm",
+      "json_file": "pages/角色职业/野蛮人/野蛮人.json",
+      "headings_count": 3,
+      "paragraphs_count": 28,
+      "links_count": 0
+    },
+    {
+      "title": "天界宗主",
+      "page_path": "玩家手册2024/角色职业/魔契师/天界宗主.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/天界宗主.htm",
+      "topic_relative_path": "角色职业/魔契师/天界宗主.htm",
+      "json_file": "pages/角色职业/魔契师/天界宗主.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "旧日支配者宗主",
+      "page_path": "玩家手册2024/角色职业/魔契师/旧日支配者宗主.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/旧日支配者宗主.htm",
+      "topic_relative_path": "角色职业/魔契师/旧日支配者宗主.htm",
+      "json_file": "pages/角色职业/魔契师/旧日支配者宗主.json",
+      "headings_count": 1,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "至高妖精宗主",
+      "page_path": "玩家手册2024/角色职业/魔契师/至高妖精宗主.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/至高妖精宗主.htm",
+      "topic_relative_path": "角色职业/魔契师/至高妖精宗主.htm",
+      "json_file": "pages/角色职业/魔契师/至高妖精宗主.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "邪魔宗主",
+      "page_path": "玩家手册2024/角色职业/魔契师/邪魔宗主.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/邪魔宗主.htm",
+      "topic_relative_path": "角色职业/魔契师/邪魔宗主.htm",
+      "json_file": "pages/角色职业/魔契师/邪魔宗主.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "魔契师",
+      "page_path": "玩家手册2024/角色职业/魔契师/魔契师.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/魔契师.htm",
+      "topic_relative_path": "角色职业/魔契师/魔契师.htm",
+      "json_file": "pages/角色职业/魔契师/魔契师.json",
+      "headings_count": 3,
+      "paragraphs_count": 16,
+      "links_count": 0
+    },
+    {
+      "title": "魔契师法术列表",
+      "page_path": "玩家手册2024/角色职业/魔契师/魔契师法术列表.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/魔契师法术列表.htm",
+      "topic_relative_path": "角色职业/魔契师/魔契师法术列表.htm",
+      "json_file": "pages/角色职业/魔契师/魔契师法术列表.json",
+      "headings_count": 1,
+      "paragraphs_count": 11,
+      "links_count": 0
+    },
+    {
+      "title": "魔能祈唤选项",
+      "page_path": "玩家手册2024/角色职业/魔契师/魔能祈唤选项.htm",
+      "source_file": "玩家手册2024/角色职业/魔契师/魔能祈唤选项.htm",
+      "topic_relative_path": "角色职业/魔契师/魔能祈唤选项.htm",
+      "json_file": "pages/角色职业/魔契师/魔能祈唤选项.json",
+      "headings_count": 1,
+      "paragraphs_count": 29,
+      "links_count": 0
+    },
+    {
+      "title": "人类",
+      "page_path": "玩家手册2024/角色起源/种族/人类.htm",
+      "source_file": "玩家手册2024/角色起源/种族/人类.htm",
+      "topic_relative_path": "角色起源/种族/人类.htm",
+      "json_file": "pages/角色起源/种族/人类.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "侏儒",
+      "page_path": "玩家手册2024/角色起源/种族/侏儒.htm",
+      "source_file": "玩家手册2024/角色起源/种族/侏儒.htm",
+      "topic_relative_path": "角色起源/种族/侏儒.htm",
+      "json_file": "pages/角色起源/种族/侏儒.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "兽人",
+      "page_path": "玩家手册2024/角色起源/种族/兽人.htm",
+      "source_file": "玩家手册2024/角色起源/种族/兽人.htm",
+      "topic_relative_path": "角色起源/种族/兽人.htm",
+      "json_file": "pages/角色起源/种族/兽人.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "半身人",
+      "page_path": "玩家手册2024/角色起源/种族/半身人.htm",
+      "source_file": "玩家手册2024/角色起源/种族/半身人.htm",
+      "topic_relative_path": "角色起源/种族/半身人.htm",
+      "json_file": "pages/角色起源/种族/半身人.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "提夫林",
+      "page_path": "玩家手册2024/角色起源/种族/提夫林.htm",
+      "source_file": "玩家手册2024/角色起源/种族/提夫林.htm",
+      "topic_relative_path": "角色起源/种族/提夫林.htm",
+      "json_file": "pages/角色起源/种族/提夫林.json",
+      "headings_count": 1,
+      "paragraphs_count": 8,
+      "links_count": 0
+    },
+    {
+      "title": "歌利亚",
+      "page_path": "玩家手册2024/角色起源/种族/歌利亚.htm",
+      "source_file": "玩家手册2024/角色起源/种族/歌利亚.htm",
+      "topic_relative_path": "角色起源/种族/歌利亚.htm",
+      "json_file": "pages/角色起源/种族/歌利亚.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "矮人",
+      "page_path": "玩家手册2024/角色起源/种族/矮人.htm",
+      "source_file": "玩家手册2024/角色起源/种族/矮人.htm",
+      "topic_relative_path": "角色起源/种族/矮人.htm",
+      "json_file": "pages/角色起源/种族/矮人.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "精灵",
+      "page_path": "玩家手册2024/角色起源/种族/精灵.htm",
+      "source_file": "玩家手册2024/角色起源/种族/精灵.htm",
+      "topic_relative_path": "角色起源/种族/精灵.htm",
+      "json_file": "pages/角色起源/种族/精灵.json",
+      "headings_count": 1,
+      "paragraphs_count": 10,
+      "links_count": 0
+    },
+    {
+      "title": "阿斯莫",
+      "page_path": "玩家手册2024/角色起源/种族/阿斯莫.htm",
+      "source_file": "玩家手册2024/角色起源/种族/阿斯莫.htm",
+      "topic_relative_path": "角色起源/种族/阿斯莫.htm",
+      "json_file": "pages/角色起源/种族/阿斯莫.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "龙裔",
+      "page_path": "玩家手册2024/角色起源/种族/龙裔.htm",
+      "source_file": "玩家手册2024/角色起源/种族/龙裔.htm",
+      "topic_relative_path": "角色起源/种族/龙裔.htm",
+      "json_file": "pages/角色起源/种族/龙裔.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "种族详述",
+      "page_path": "玩家手册2024/角色起源/种族详述.htm",
+      "source_file": "玩家手册2024/角色起源/种族详述.htm",
+      "topic_relative_path": "角色起源/种族详述.htm",
+      "json_file": "pages/角色起源/种族详述.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "侍僧",
+      "page_path": "玩家手册2024/角色起源/背景/侍僧.htm",
+      "source_file": "玩家手册2024/角色起源/背景/侍僧.htm",
+      "topic_relative_path": "角色起源/背景/侍僧.htm",
+      "json_file": "pages/角色起源/背景/侍僧.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "农民",
+      "page_path": "玩家手册2024/角色起源/背景/农民.htm",
+      "source_file": "玩家手册2024/角色起源/背景/农民.htm",
+      "topic_relative_path": "角色起源/背景/农民.htm",
+      "json_file": "pages/角色起源/背景/农民.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "向导",
+      "page_path": "玩家手册2024/角色起源/背景/向导.htm",
+      "source_file": "玩家手册2024/角色起源/背景/向导.htm",
+      "topic_relative_path": "角色起源/背景/向导.htm",
+      "json_file": "pages/角色起源/背景/向导.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "商人",
+      "page_path": "玩家手册2024/角色起源/背景/商人.htm",
+      "source_file": "玩家手册2024/角色起源/背景/商人.htm",
+      "topic_relative_path": "角色起源/背景/商人.htm",
+      "json_file": "pages/角色起源/背景/商人.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "士兵",
+      "page_path": "玩家手册2024/角色起源/背景/士兵.htm",
+      "source_file": "玩家手册2024/角色起源/背景/士兵.htm",
+      "topic_relative_path": "角色起源/背景/士兵.htm",
+      "json_file": "pages/角色起源/背景/士兵.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "工匠",
+      "page_path": "玩家手册2024/角色起源/背景/工匠.htm",
+      "source_file": "玩家手册2024/角色起源/背景/工匠.htm",
+      "topic_relative_path": "角色起源/背景/工匠.htm",
+      "json_file": "pages/角色起源/背景/工匠.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "抄写员",
+      "page_path": "玩家手册2024/角色起源/背景/抄写员.htm",
+      "source_file": "玩家手册2024/角色起源/背景/抄写员.htm",
+      "topic_relative_path": "角色起源/背景/抄写员.htm",
+      "json_file": "pages/角色起源/背景/抄写员.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "智者",
+      "page_path": "玩家手册2024/角色起源/背景/智者.htm",
+      "source_file": "玩家手册2024/角色起源/背景/智者.htm",
+      "topic_relative_path": "角色起源/背景/智者.htm",
+      "json_file": "pages/角色起源/背景/智者.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "水手",
+      "page_path": "玩家手册2024/角色起源/背景/水手.htm",
+      "source_file": "玩家手册2024/角色起源/背景/水手.htm",
+      "topic_relative_path": "角色起源/背景/水手.htm",
+      "json_file": "pages/角色起源/背景/水手.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "流浪者",
+      "page_path": "玩家手册2024/角色起源/背景/流浪者.htm",
+      "source_file": "玩家手册2024/角色起源/背景/流浪者.htm",
+      "topic_relative_path": "角色起源/背景/流浪者.htm",
+      "json_file": "pages/角色起源/背景/流浪者.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "罪犯",
+      "page_path": "玩家手册2024/角色起源/背景/罪犯.htm",
+      "source_file": "玩家手册2024/角色起源/背景/罪犯.htm",
+      "topic_relative_path": "角色起源/背景/罪犯.htm",
+      "json_file": "pages/角色起源/背景/罪犯.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "艺人",
+      "page_path": "玩家手册2024/角色起源/背景/艺人.htm",
+      "source_file": "玩家手册2024/角色起源/背景/艺人.htm",
+      "topic_relative_path": "角色起源/背景/艺人.htm",
+      "json_file": "pages/角色起源/背景/艺人.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "警卫",
+      "page_path": "玩家手册2024/角色起源/背景/警卫.htm",
+      "source_file": "玩家手册2024/角色起源/背景/警卫.htm",
+      "topic_relative_path": "角色起源/背景/警卫.htm",
+      "json_file": "pages/角色起源/背景/警卫.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "贵族",
+      "page_path": "玩家手册2024/角色起源/背景/贵族.htm",
+      "source_file": "玩家手册2024/角色起源/背景/贵族.htm",
+      "topic_relative_path": "角色起源/背景/贵族.htm",
+      "json_file": "pages/角色起源/背景/贵族.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "隐士",
+      "page_path": "玩家手册2024/角色起源/背景/隐士.htm",
+      "source_file": "玩家手册2024/角色起源/背景/隐士.htm",
+      "topic_relative_path": "角色起源/背景/隐士.htm",
+      "json_file": "pages/角色起源/背景/隐士.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "骗子",
+      "page_path": "玩家手册2024/角色起源/背景/骗子.htm",
+      "source_file": "玩家手册2024/角色起源/背景/骗子.htm",
+      "topic_relative_path": "角色起源/背景/骗子.htm",
+      "json_file": "pages/角色起源/背景/骗子.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "背景详述",
+      "page_path": "玩家手册2024/角色起源/背景详述.htm",
+      "source_file": "玩家手册2024/角色起源/背景详述.htm",
+      "topic_relative_path": "角色起源/背景详述.htm",
+      "json_file": "pages/角色起源/背景详述.json",
+      "headings_count": 1,
+      "paragraphs_count": 17,
+      "links_count": 0
+    },
+    {
+      "title": "起源的构成部分",
+      "page_path": "玩家手册2024/角色起源/起源的构成部分.htm",
+      "source_file": "玩家手册2024/角色起源/起源的构成部分.htm",
+      "topic_relative_path": "角色起源/起源的构成部分.htm",
+      "json_file": "pages/角色起源/起源的构成部分.json",
+      "headings_count": 3,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "D20检定",
+      "page_path": "玩家手册2024/进行游戏/D20检定.htm",
+      "source_file": "玩家手册2024/进行游戏/D20检定.htm",
+      "topic_relative_path": "进行游戏/D20检定.htm",
+      "json_file": "pages/进行游戏/D20检定.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "与物件交互",
+      "page_path": "玩家手册2024/进行游戏/与物件交互.htm",
+      "source_file": "玩家手册2024/进行游戏/与物件交互.htm",
+      "topic_relative_path": "进行游戏/与物件交互.htm",
+      "json_file": "pages/进行游戏/与物件交互.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "临时生命值",
+      "page_path": "玩家手册2024/进行游戏/临时生命值.htm",
+      "source_file": "玩家手册2024/进行游戏/临时生命值.htm",
+      "topic_relative_path": "进行游戏/临时生命值.htm",
+      "json_file": "pages/进行游戏/临时生命值.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "交涉",
+      "page_path": "玩家手册2024/进行游戏/交涉.htm",
+      "source_file": "玩家手册2024/进行游戏/交涉.htm",
+      "topic_relative_path": "进行游戏/交涉.htm",
+      "json_file": "pages/进行游戏/交涉.json",
+      "headings_count": 3,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "交涉案例",
+      "page_path": "玩家手册2024/进行游戏/交涉案例.htm",
+      "source_file": "玩家手册2024/进行游戏/交涉案例.htm",
+      "topic_relative_path": "进行游戏/交涉案例.htm",
+      "json_file": "pages/进行游戏/交涉案例.json",
+      "headings_count": 1,
+      "paragraphs_count": 46,
+      "links_count": 0
+    },
+    {
+      "title": "优势/劣势",
+      "page_path": "玩家手册2024/进行游戏/优势_劣势.htm",
+      "source_file": "玩家手册2024/进行游戏/优势_劣势.htm",
+      "topic_relative_path": "进行游戏/优势_劣势.htm",
+      "json_file": "pages/进行游戏/优势_劣势.json",
+      "headings_count": 1,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "伤害与治疗",
+      "page_path": "玩家手册2024/进行游戏/伤害与治疗.htm",
+      "source_file": "玩家手册2024/进行游戏/伤害与治疗.htm",
+      "topic_relative_path": "进行游戏/伤害与治疗.htm",
+      "json_file": "pages/进行游戏/伤害与治疗.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "伤害掷骰",
+      "page_path": "玩家手册2024/进行游戏/伤害掷骰.htm",
+      "source_file": "玩家手册2024/进行游戏/伤害掷骰.htm",
+      "topic_relative_path": "进行游戏/伤害掷骰.htm",
+      "json_file": "pages/进行游戏/伤害掷骰.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "伤害类型",
+      "page_path": "玩家手册2024/进行游戏/伤害类型.htm",
+      "source_file": "玩家手册2024/进行游戏/伤害类型.htm",
+      "topic_relative_path": "进行游戏/伤害类型.htm",
+      "json_file": "pages/进行游戏/伤害类型.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "免疫",
+      "page_path": "玩家手册2024/进行游戏/免疫.htm",
+      "source_file": "玩家手册2024/进行游戏/免疫.htm",
+      "topic_relative_path": "进行游戏/免疫.htm",
+      "json_file": "pages/进行游戏/免疫.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "六项属性",
+      "page_path": "玩家手册2024/进行游戏/六项属性.htm",
+      "source_file": "玩家手册2024/进行游戏/六项属性.htm",
+      "topic_relative_path": "进行游戏/六项属性.htm",
+      "json_file": "pages/进行游戏/六项属性.json",
+      "headings_count": 3,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "动作",
+      "page_path": "玩家手册2024/进行游戏/动作.htm",
+      "source_file": "玩家手册2024/进行游戏/动作.htm",
+      "topic_relative_path": "进行游戏/动作.htm",
+      "json_file": "pages/进行游戏/动作.json",
+      "headings_count": 2,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "危害",
+      "page_path": "玩家手册2024/进行游戏/危害.htm",
+      "source_file": "玩家手册2024/进行游戏/危害.htm",
+      "topic_relative_path": "进行游戏/危害.htm",
+      "json_file": "pages/进行游戏/危害.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "反应",
+      "page_path": "玩家手册2024/进行游戏/反应.htm",
+      "source_file": "玩家手册2024/进行游戏/反应.htm",
+      "topic_relative_path": "进行游戏/反应.htm",
+      "json_file": "pages/进行游戏/反应.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "发动攻击",
+      "page_path": "玩家手册2024/进行游戏/发动攻击.htm",
+      "source_file": "玩家手册2024/进行游戏/发动攻击.htm",
+      "topic_relative_path": "进行游戏/发动攻击.htm",
+      "json_file": "pages/进行游戏/发动攻击.json",
+      "headings_count": 2,
+      "paragraphs_count": 5,
+      "links_count": 0
+    },
+    {
+      "title": "属性检定",
+      "page_path": "玩家手册2024/进行游戏/属性检定.htm",
+      "source_file": "玩家手册2024/进行游戏/属性检定.htm",
+      "topic_relative_path": "进行游戏/属性检定.htm",
+      "json_file": "pages/进行游戏/属性检定.json",
+      "headings_count": 1,
+      "paragraphs_count": 13,
+      "links_count": 0
+    },
+    {
+      "title": "战斗",
+      "page_path": "玩家手册2024/进行游戏/战斗.htm",
+      "source_file": "玩家手册2024/进行游戏/战斗.htm",
+      "topic_relative_path": "进行游戏/战斗.htm",
+      "json_file": "pages/进行游戏/战斗.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "战斗与伤害案例",
+      "page_path": "玩家手册2024/进行游戏/战斗与伤害案例.htm",
+      "source_file": "玩家手册2024/进行游戏/战斗与伤害案例.htm",
+      "topic_relative_path": "进行游戏/战斗与伤害案例.htm",
+      "json_file": "pages/进行游戏/战斗与伤害案例.json",
+      "headings_count": 1,
+      "paragraphs_count": 54,
+      "links_count": 0
+    },
+    {
+      "title": "战斗流程",
+      "page_path": "玩家手册2024/进行游戏/战斗流程.htm",
+      "source_file": "玩家手册2024/进行游戏/战斗流程.htm",
+      "topic_relative_path": "进行游戏/战斗流程.htm",
+      "json_file": "pages/进行游戏/战斗流程.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "抗性和易伤",
+      "page_path": "玩家手册2024/进行游戏/抗性和易伤.htm",
+      "source_file": "玩家手册2024/进行游戏/抗性和易伤.htm",
+      "topic_relative_path": "进行游戏/抗性和易伤.htm",
+      "json_file": "pages/进行游戏/抗性和易伤.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "探索",
+      "page_path": "玩家手册2024/进行游戏/探索.htm",
+      "source_file": "玩家手册2024/进行游戏/探索.htm",
+      "topic_relative_path": "进行游戏/探索.htm",
+      "json_file": "pages/进行游戏/探索.json",
+      "headings_count": 2,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "探索案例",
+      "page_path": "玩家手册2024/进行游戏/探索案例.htm",
+      "source_file": "玩家手册2024/进行游戏/探索案例.htm",
+      "topic_relative_path": "进行游戏/探索案例.htm",
+      "json_file": "pages/进行游戏/探索案例.json",
+      "headings_count": 1,
+      "paragraphs_count": 48,
+      "links_count": 0
+    },
+    {
+      "title": "攻击检定",
+      "page_path": "玩家手册2024/进行游戏/攻击检定.htm",
+      "source_file": "玩家手册2024/进行游戏/攻击检定.htm",
+      "topic_relative_path": "进行游戏/攻击检定.htm",
+      "json_file": "pages/进行游戏/攻击检定.json",
+      "headings_count": 1,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "旅行",
+      "page_path": "玩家手册2024/进行游戏/旅行.htm",
+      "source_file": "玩家手册2024/进行游戏/旅行.htm",
+      "topic_relative_path": "进行游戏/旅行.htm",
+      "json_file": "pages/进行游戏/旅行.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "水下战斗",
+      "page_path": "玩家手册2024/进行游戏/水下战斗.htm",
+      "source_file": "玩家手册2024/进行游戏/水下战斗.htm",
+      "topic_relative_path": "进行游戏/水下战斗.htm",
+      "json_file": "pages/进行游戏/水下战斗.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "治疗",
+      "page_path": "玩家手册2024/进行游戏/治疗.htm",
+      "source_file": "玩家手册2024/进行游戏/治疗.htm",
+      "topic_relative_path": "进行游戏/治疗.htm",
+      "json_file": "pages/进行游戏/治疗.json",
+      "headings_count": 1,
+      "paragraphs_count": 2,
+      "links_count": 0
+    },
+    {
+      "title": "游戏节奏",
+      "page_path": "玩家手册2024/进行游戏/游戏规律.htm",
+      "source_file": "玩家手册2024/进行游戏/游戏规律.htm",
+      "topic_relative_path": "进行游戏/游戏规律.htm",
+      "json_file": "pages/进行游戏/游戏规律.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "熟练",
+      "page_path": "玩家手册2024/进行游戏/熟练.htm",
+      "source_file": "玩家手册2024/进行游戏/熟练.htm",
+      "topic_relative_path": "进行游戏/熟练.htm",
+      "json_file": "pages/进行游戏/熟练.json",
+      "headings_count": 5,
+      "paragraphs_count": 10,
+      "links_count": 0
+    },
+    {
+      "title": "状态",
+      "page_path": "玩家手册2024/进行游戏/状态.htm",
+      "source_file": "玩家手册2024/进行游戏/状态.htm",
+      "topic_relative_path": "进行游戏/状态.htm",
+      "json_file": "pages/进行游戏/状态.json",
+      "headings_count": 3,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "玩家还是DM？",
+      "page_path": "玩家手册2024/进行游戏/玩家还是DM？.htm",
+      "source_file": "玩家手册2024/进行游戏/玩家还是DM？.htm",
+      "topic_relative_path": "进行游戏/玩家还是DM？.htm",
+      "json_file": "pages/进行游戏/玩家还是DM？.json",
+      "headings_count": 3,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "生命值",
+      "page_path": "玩家手册2024/进行游戏/生命值.htm",
+      "source_file": "玩家手册2024/进行游戏/生命值.htm",
+      "topic_relative_path": "进行游戏/生命值.htm",
+      "json_file": "pages/进行游戏/生命值.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "生命值降至0点",
+      "page_path": "玩家手册2024/进行游戏/生命值降至0点.htm",
+      "source_file": "玩家手册2024/进行游戏/生命值降至0点.htm",
+      "topic_relative_path": "进行游戏/生命值降至0点.htm",
+      "json_file": "pages/进行游戏/生命值降至0点.json",
+      "headings_count": 1,
+      "paragraphs_count": 7,
+      "links_count": 0
+    },
+    {
+      "title": "移动和位置",
+      "page_path": "玩家手册2024/进行游戏/移动和位置.htm",
+      "source_file": "玩家手册2024/进行游戏/移动和位置.htm",
+      "topic_relative_path": "进行游戏/移动和位置.htm",
+      "json_file": "pages/进行游戏/移动和位置.json",
+      "headings_count": 1,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "视野与光照",
+      "page_path": "玩家手册2024/进行游戏/视野与光照.htm",
+      "source_file": "玩家手册2024/进行游戏/视野与光照.htm",
+      "topic_relative_path": "进行游戏/视野与光照.htm",
+      "json_file": "pages/进行游戏/视野与光照.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "豁免检定",
+      "page_path": "玩家手册2024/进行游戏/豁免检定.htm",
+      "source_file": "玩家手册2024/进行游戏/豁免检定.htm",
+      "topic_relative_path": "进行游戏/豁免检定.htm",
+      "json_file": "pages/进行游戏/豁免检定.json",
+      "headings_count": 1,
+      "paragraphs_count": 6,
+      "links_count": 0
+    },
+    {
+      "title": "豁免检定与伤害",
+      "page_path": "玩家手册2024/进行游戏/豁免检定与伤害.htm",
+      "source_file": "玩家手册2024/进行游戏/豁免检定与伤害.htm",
+      "topic_relative_path": "进行游戏/豁免检定与伤害.htm",
+      "json_file": "pages/进行游戏/豁免检定与伤害.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "躲藏",
+      "page_path": "玩家手册2024/进行游戏/躲藏.htm",
+      "source_file": "玩家手册2024/进行游戏/躲藏.htm",
+      "topic_relative_path": "进行游戏/躲藏.htm",
+      "json_file": "pages/进行游戏/躲藏.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "近战攻击",
+      "page_path": "玩家手册2024/进行游戏/近战攻击.htm",
+      "source_file": "玩家手册2024/进行游戏/近战攻击.htm",
+      "topic_relative_path": "进行游戏/近战攻击.htm",
+      "json_file": "pages/进行游戏/近战攻击.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "远程攻击",
+      "page_path": "玩家手册2024/进行游戏/远程攻击.htm",
+      "source_file": "玩家手册2024/进行游戏/远程攻击.htm",
+      "topic_relative_path": "进行游戏/远程攻击.htm",
+      "json_file": "pages/进行游戏/远程攻击.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "重击命中",
+      "page_path": "玩家手册2024/进行游戏/重击.htm",
+      "source_file": "玩家手册2024/进行游戏/重击.htm",
+      "topic_relative_path": "进行游戏/重击.htm",
+      "json_file": "pages/进行游戏/重击.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "长期游戏",
+      "page_path": "玩家手册2024/进行游戏/长期游戏.htm",
+      "source_file": "玩家手册2024/进行游戏/长期游戏.htm",
+      "topic_relative_path": "进行游戏/长期游戏.htm",
+      "json_file": "pages/进行游戏/长期游戏.json",
+      "headings_count": 3,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "附赠动作",
+      "page_path": "玩家手册2024/进行游戏/附赠动作.htm",
+      "source_file": "玩家手册2024/进行游戏/附赠动作.htm",
+      "topic_relative_path": "进行游戏/附赠动作.htm",
+      "json_file": "pages/进行游戏/附赠动作.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "骑乘战斗",
+      "page_path": "玩家手册2024/进行游戏/骑乘战斗.htm",
+      "source_file": "玩家手册2024/进行游戏/骑乘战斗.htm",
+      "topic_relative_path": "进行游戏/骑乘战斗.htm",
+      "json_file": "pages/进行游戏/骑乘战斗.json",
+      "headings_count": 1,
+      "paragraphs_count": 4,
+      "links_count": 0
+    },
+    {
+      "title": "骰子",
+      "page_path": "玩家手册2024/进行游戏/骰子.htm",
+      "source_file": "玩家手册2024/进行游戏/骰子.htm",
+      "topic_relative_path": "进行游戏/骰子.htm",
+      "json_file": "pages/进行游戏/骰子.json",
+      "headings_count": 3,
+      "paragraphs_count": 9,
+      "links_count": 0
+    },
+    {
+      "title": "附录A：多元宇宙",
+      "page_path": "玩家手册2024/附录A：多元宇宙.htm",
+      "source_file": "玩家手册2024/附录A：多元宇宙.htm",
+      "topic_relative_path": "附录A：多元宇宙.htm",
+      "json_file": "pages/附录A：多元宇宙.json",
+      "headings_count": 1,
+      "paragraphs_count": 1,
+      "links_count": 0
+    },
+    {
+      "title": "附录B：生物数据卡",
+      "page_path": "玩家手册2024/附录B：生物数据卡.htm",
+      "source_file": "玩家手册2024/附录B：生物数据卡.htm",
+      "topic_relative_path": "附录B：生物数据卡.htm",
+      "json_file": "pages/附录B：生物数据卡.json",
+      "headings_count": 1,
+      "paragraphs_count": 3,
+      "links_count": 0
+    },
+    {
+      "title": "附录C：术语汇编",
+      "page_path": "玩家手册2024/附录C：术语汇编.htm",
+      "source_file": "玩家手册2024/附录C：术语汇编.htm",
+      "topic_relative_path": "附录C：术语汇编.htm",
+      "json_file": "pages/附录C：术语汇编.json",
+      "headings_count": 2,
+      "paragraphs_count": 35,
+      "links_count": 0
+    }
+  ]
+}
