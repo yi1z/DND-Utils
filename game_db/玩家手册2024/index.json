@@ -1,0 +1,21 @@
+{
+  "dataset": "phb2024_game_db",
+  "generated_at_utc": "2026-03-07T03:40:44.804467+00:00",
+  "output_dir": "C:/Users/v2-Za/Desktop/Work/DND Utils/DND-Utils/game_db/玩家手册2024",
+  "files": {
+    "spells": "spells.json",
+    "actions": "actions.json",
+    "conditions": "conditions.json",
+    "damage_types": "damage_types.json",
+    "bonus_actions": "bonus_actions.json",
+    "reactions": "reactions.json"
+  },
+  "counts": {
+    "spells": 391,
+    "actions": 12,
+    "conditions": 15,
+    "damage_types": 13,
+    "bonus_action_spells": 35,
+    "reaction_spells": 4
+  }
+}

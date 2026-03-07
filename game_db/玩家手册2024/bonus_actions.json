@@ -1,0 +1,218 @@
+{
+  "dataset": "bonus_actions",
+  "rule_text": "附赠动作 Bonus Actions 有很多职业特性、法术或其他能力允许你在你的回合中执行一种额外的动作，这种动作叫作附赠动作。例如，灵巧动作特性就能够让游荡者执行附赠动作。只有在某个特殊能力、法术或游戏中其他明确了你能以附赠动作来做某事的特性的允许下，你才能执行附赠动作。否则，你没有可以执行的附赠动作。 你只能在自己的回合执行一个附赠动作，因此在你拥有多个可执行的附赠动作项时，你必须选择你要执行哪一个。 除非该附赠动作项的发生时点有明确规定，否则你可以自行选择在你的回合内何时执行附赠动作。任何能够让你无法执行动作的效应，同样会使你无法执行附赠动作。",
+  "spell_options_count": 35,
+  "spell_options": [
+    {
+      "spell_id": "0-橡棍术",
+      "name_zh": "橡棍术",
+      "level": 0,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "0-燃火术",
+      "name_zh": "燃火术",
+      "level": 0,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-庇护术",
+      "name_zh": "庇护术",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-强令对决",
+      "name_zh": "强令对决",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-捕获打击",
+      "name_zh": "捕获打击",
+      "level": 1,
+      "casting_time": "附赠动作，在你用武器命中目标后立即可用"
+    },
+    {
+      "spell_id": "1-治愈真言",
+      "name_zh": "治愈真言",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-激愤斩",
+      "name_zh": "激愤斩",
+      "level": 1,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "1-炽焰斩",
+      "name_zh": "炽焰斩",
+      "level": 1,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个目标后立即执行"
+    },
+    {
+      "spell_id": "1-猎人印记",
+      "name_zh": "猎人印记",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-神恩",
+      "name_zh": "神恩",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-脆弱诅咒",
+      "name_zh": "脆弱诅咒",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-脚底抹油",
+      "name_zh": "脚底抹油",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-至圣斩",
+      "name_zh": "至圣斩",
+      "level": 1,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "1-荆棘之雨",
+      "name_zh": "荆棘之雨",
+      "level": 1,
+      "casting_time": "1附赠动作，在你使用远程武器命中一个生物时紧接可用"
+    },
+    {
+      "spell_id": "1-虔诚护盾",
+      "name_zh": "虔诚护盾",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-跳跃术",
+      "name_zh": "跳跃术",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "1-雷鸣斩",
+      "name_zh": "雷鸣斩",
+      "level": 1,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个目标后立即执行"
+    },
+    {
+      "spell_id": "1-黯冰狱铠",
+      "name_zh": "黯冰狱铠",
+      "level": 1,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-复苏秘法",
+      "name_zh": "复苏秘法",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-树肤术",
+      "name_zh": "树肤术",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-次等复原术",
+      "name_zh": "次等复原术",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-火焰刀",
+      "name_zh": "火焰刀",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-灵体武器",
+      "name_zh": "灵体武器",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-迷踪步",
+      "name_zh": "迷踪步",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-闪耀斩",
+      "name_zh": "闪耀斩",
+      "level": 2,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "2-魔化武器",
+      "name_zh": "魔化武器",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "2-龙息术",
+      "name_zh": "龙息术",
+      "level": 2,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "3-群体治愈真言",
+      "name_zh": "群体治愈真言",
+      "level": 3,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "3-致盲斩",
+      "name_zh": "致盲斩",
+      "level": 3,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "3-闪电箭矢",
+      "name_zh": "闪电箭矢",
+      "level": 3,
+      "casting_time": "附赠动作，在你使用武器发动远程攻击命中一个目标或失手时紧接可用"
+    },
+    {
+      "spell_id": "4-惊惧斩",
+      "name_zh": "惊惧斩",
+      "level": 4,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "4-擒抱藤",
+      "name_zh": "擒抱藤",
+      "level": 4,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "5-放逐斩",
+      "name_zh": "放逐斩",
+      "level": 5,
+      "casting_time": "附赠动作，当你使用近战武器或徒手打击命中一个生物后立即执行"
+    },
+    {
+      "spell_id": "5-迅捷箭袋",
+      "name_zh": "迅捷箭袋",
+      "level": 5,
+      "casting_time": "附赠动作"
+    },
+    {
+      "spell_id": "7-圣言术",
+      "name_zh": "圣言术",
+      "level": 7,
+      "casting_time": "附赠动作"
+    }
+  ],
+  "source_file": "玩家手册2024/进行游戏/附赠动作.htm"
+}

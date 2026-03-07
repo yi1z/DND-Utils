@@ -1,0 +1,85 @@
+{
+  "dataset": "damage_types",
+  "count": 13,
+  "items": [
+    {
+      "id": "强酸",
+      "name_zh": "强酸",
+      "name_en": "Acid",
+      "examples": "腐蚀性液体，消化酶"
+    },
+    {
+      "id": "钝击",
+      "name_zh": "钝击",
+      "name_en": "Bludgeoning",
+      "examples": "钝器，压紧，坠落"
+    },
+    {
+      "id": "寒冷",
+      "name_zh": "寒冷",
+      "name_en": "Cold",
+      "examples": "冰水，寒风"
+    },
+    {
+      "id": "火焰",
+      "name_zh": "火焰",
+      "name_en": "Fire",
+      "examples": "烈焰，难以忍受的高温"
+    },
+    {
+      "id": "力场",
+      "name_zh": "力场",
+      "name_en": "Force",
+      "examples": "纯粹的魔法能量"
+    },
+    {
+      "id": "闪电",
+      "name_zh": "闪电",
+      "name_en": "Lightning",
+      "examples": "高压电"
+    },
+    {
+      "id": "暗蚀",
+      "name_zh": "暗蚀",
+      "name_en": "Necrotic",
+      "examples": "窃取生命的能量"
+    },
+    {
+      "id": "穿刺",
+      "name_zh": "穿刺",
+      "name_en": "Piercing",
+      "examples": "獠牙，刺穿"
+    },
+    {
+      "id": "毒素",
+      "name_zh": "毒素",
+      "name_en": "Poison",
+      "examples": "毒性气体，蛇毒"
+    },
+    {
+      "id": "心灵",
+      "name_zh": "心灵",
+      "name_en": "Psychic",
+      "examples": "摧毁心灵的能量"
+    },
+    {
+      "id": "光耀",
+      "name_zh": "光耀",
+      "name_en": "Radiant",
+      "examples": "神圣能量，炽热的辐射"
+    },
+    {
+      "id": "挥砍",
+      "name_zh": "挥砍",
+      "name_en": "Slashing",
+      "examples": "爪子，切割用具"
+    },
+    {
+      "id": "雷鸣",
+      "name_zh": "雷鸣",
+      "name_en": "Thunder",
+      "examples": "足以形成冲击波的响声"
+    }
+  ],
+  "source_file": "玩家手册2024/术语汇编/其他术语.htm"
+}
