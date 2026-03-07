@@ -1,6 +1,6 @@
 {
   "dataset": "phb2024_game_db",
-  "generated_at_utc": "2026-03-07T03:40:44.804467+00:00",
+  "generated_at_utc": "2026-03-07T04:09:11.752567+00:00",
   "output_dir": "C:/Users/v2-Za/Desktop/Work/DND Utils/DND-Utils/game_db/玩家手册2024",
   "files": {
     "spells": "spells.json",
@@ -8,7 +8,14 @@
     "conditions": "conditions.json",
     "damage_types": "damage_types.json",
     "bonus_actions": "bonus_actions.json",
-    "reactions": "reactions.json"
+    "reactions": "reactions.json",
+    "classes": "classes.json",
+    "subclasses": "subclasses.json",
+    "feats": "feats.json",
+    "races": "races.json",
+    "backgrounds": "backgrounds.json",
+    "equipment_topics": "equipment_topics.json",
+    "equipment_items": "equipment_items.json"
   },
   "counts": {
     "spells": 391,
@@ -16,6 +23,13 @@
     "conditions": 15,
     "damage_types": 13,
     "bonus_action_spells": 35,
-    "reaction_spells": 4
+    "reaction_spells": 4,
+    "classes": 12,
+    "subclasses": 48,
+    "feats": 75,
+    "races": 10,
+    "backgrounds": 16,
+    "equipment_topics": 13,
+    "equipment_items": 214
   }
 }
