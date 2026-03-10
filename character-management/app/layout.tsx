@@ -29,7 +29,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-slate-50 text-slate-900`}
       >
         <div className="flex flex-col min-h-dvh">
-          <header className="border-b border-slate-200 bg-white sticky top-0 z-50">
+          <header className="fixed top-0 left-0 right-0 z-50 border-b border-slate-200 bg-white">
             <nav className="mx-auto flex h-14 w-full max-w-6xl items-center justify-between px-6">
               <Link href="/" className="text-lg font-semibold tracking-tight">
                 DND Utils

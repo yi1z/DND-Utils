@@ -10,7 +10,7 @@ export default function ActionAreaCard() {
         <div className='flex gap-12'>
             <div className='col-1'>
                 <Card sx={{ maxWidth: 345 }}>
-                    <CardActionArea>
+                    <CardActionArea href="/character-create">
                         <CardMedia
                         component="img"
                         height="140"
