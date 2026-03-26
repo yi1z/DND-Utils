@@ -243,13 +243,14 @@ export function SearchOverlay({ open, onClose }: SearchOverlayProps) {
           ) : null}
 
           {rankedResults.length > 0 ? (
-            <div className="search-results">
-              {rankedResults.map(({ entry, score }) => (
-                <Link
-                  key={entry.href}
-                  href={entry.href}
-                  className="search-result"
-                  onClick={onClose}
+            <div className="search-overlay__results">
+              <div className="search-results">
+                {rankedResults.map(({ entry, score }) => (
+                  <Link
+                    key={entry.href}
+                    href={entry.href}
+                    className="search-result"
+                    onClick={onClose}
                 >
                   <div className="search-result__meta">
                     <span>{entry.collectionTitle}</span>
@@ -260,8 +261,9 @@ export function SearchOverlay({ open, onClose }: SearchOverlayProps) {
                   <div className="search-result__trail">
                     {entry.breadcrumbs.join(" / ")}
                   </div>
-                </Link>
-              ))}
+                  </Link>
+                ))}
+              </div>
             </div>
           ) : null}
         </div>

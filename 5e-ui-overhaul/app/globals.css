@@ -464,11 +464,11 @@ select {
   margin-top: 0.25rem;
 }
 
-.sidebar-tree details {
+.sidebar-tree__group {
   border-radius: 1rem;
 }
 
-.sidebar-tree summary,
+.sidebar-tree__summary,
 .sidebar-tree__link {
   display: flex;
   align-items: center;
@@ -478,25 +478,25 @@ select {
   border-radius: 0.85rem;
 }
 
-.sidebar-tree summary {
+.sidebar-tree__summary {
+  width: 100%;
+  border: 0;
+  background: transparent;
   cursor: pointer;
-  list-style: none;
+  color: inherit;
+  text-align: left;
 }
 
-.sidebar-tree summary::-webkit-details-marker {
-  display: none;
-}
-
-.sidebar-tree summary small {
+.sidebar-tree__summary small {
   color: var(--ink-soft);
 }
 
-.sidebar-tree summary:hover,
+.sidebar-tree__summary:hover,
 .sidebar-tree__link:hover {
   background: rgba(125, 33, 23, 0.08);
 }
 
-.sidebar-tree summary.is-active,
+.sidebar-tree__summary.is-active,
 .sidebar-tree__link.is-active {
   background: rgba(125, 33, 23, 0.12);
   color: var(--accent);
@@ -513,6 +513,38 @@ select {
 
 .sidebar-tree__overview {
   font-size: 0.94rem;
+}
+
+.sidebar-tree--status {
+  display: grid;
+  gap: 1rem;
+  min-height: 100%;
+}
+
+.sidebar-tree__status {
+  display: grid;
+  gap: 0.85rem;
+  align-content: start;
+  padding: 0.7rem;
+  border-radius: 1.15rem;
+  border: 1px solid rgba(125, 33, 23, 0.08);
+  background: rgba(255, 255, 255, 0.56);
+  color: var(--ink-soft);
+}
+
+.sidebar-tree__status--loading {
+  grid-auto-flow: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.sidebar-tree__pulse {
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #7d2117, #b95c24);
+  box-shadow: 0 0 0 0 rgba(125, 33, 23, 0.2);
+  animation: toc-pulse 1.4s ease-in-out infinite;
 }
 
 .reader-view {
@@ -661,6 +693,151 @@ select {
   color: var(--accent) !important;
 }
 
+.reader-content--quicksearch {
+  overflow: hidden;
+}
+
+.quicksearch-bar,
+.quicksearch-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.quicksearch-bar {
+  margin: 0 0 1rem !important;
+  padding: 1rem !important;
+  border: 1px solid rgba(125, 33, 23, 0.12);
+  border-radius: 1.15rem;
+  background: rgba(255, 252, 246, 0.82);
+}
+
+.quicksearch-input,
+.quicksearch-select {
+  border: 1px solid rgba(125, 33, 23, 0.16);
+  border-radius: 0.95rem;
+  background: rgba(255, 255, 255, 0.88);
+  color: var(--ink);
+  outline: none;
+}
+
+.quicksearch-input {
+  flex: 1 1 18rem;
+  min-width: 14rem;
+  padding: 0.85rem 1rem;
+}
+
+.quicksearch-select {
+  min-width: 5rem;
+  padding: 0.55rem 0.8rem;
+}
+
+.quicksearch-input:focus,
+.quicksearch-select:focus {
+  border-color: rgba(125, 33, 23, 0.32);
+  box-shadow: 0 0 0 4px rgba(125, 33, 23, 0.08);
+}
+
+.quicksearch-button,
+.quicksearch-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(125, 33, 23, 0.12);
+  border-radius: 999px;
+  cursor: pointer;
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    background-color 180ms ease;
+}
+
+.quicksearch-button {
+  padding: 0.8rem 1.15rem;
+  background: linear-gradient(135deg, #7d2117, #b95c24);
+  color: #fff8f2;
+}
+
+.quicksearch-button--ghost,
+.quicksearch-chip {
+  background: rgba(255, 255, 255, 0.8);
+  color: var(--ink);
+}
+
+.quicksearch-chip {
+  margin-right: 0.65rem;
+  margin-bottom: 0.75rem;
+  padding: 0.42rem 0.75rem;
+}
+
+.quicksearch-button:hover,
+.quicksearch-chip:hover {
+  transform: translateY(-1px);
+  border-color: rgba(125, 33, 23, 0.24);
+}
+
+.quicksearch-filters {
+  margin: 0 0 1rem !important;
+  padding: 1rem 1rem 0.25rem !important;
+  border: 1px solid rgba(125, 33, 23, 0.12);
+  border-radius: 1.15rem;
+  background: rgba(255, 250, 243, 0.82);
+}
+
+.quicksearch-filters b {
+  color: var(--accent);
+}
+
+.quicksearch-filters label {
+  margin-right: 0.9rem;
+}
+
+.quicksearch-filters input[type="checkbox"] {
+  margin-right: 0.35rem;
+  accent-color: var(--accent);
+}
+
+.quicksearch-filters button,
+.quicksearch-filters select {
+  margin-right: 0.65rem;
+  margin-bottom: 0.75rem;
+}
+
+.quicksearch-toolbar {
+  justify-content: space-between;
+  margin: 0 0 0.85rem;
+}
+
+.quicksearch-toolbar__summary {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+}
+
+.quicksearch-table-wrap {
+  overflow: auto;
+  border: 1px solid rgba(125, 33, 23, 0.12);
+  border-radius: 1.15rem;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.reader-content--quicksearch .quicksearch-table {
+  min-width: 100%;
+  margin: 0 !important;
+}
+
+.reader-content--quicksearch .quicksearch-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: rgba(241, 228, 208, 0.96);
+}
+
+.reader-content--quicksearch .quicksearch-table tr:hover td {
+  background: rgba(125, 33, 23, 0.04);
+}
+
 .meta-stack {
   display: grid;
   gap: 1rem;
@@ -757,11 +934,14 @@ select {
   position: relative;
   z-index: 1;
   width: min(920px, calc(100vw - 2rem));
+  height: min(88vh, 860px);
   max-height: min(88vh, 860px);
   border-radius: 2rem;
   padding: 1.4rem;
   display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
   gap: 1rem;
+  overflow: hidden;
 }
 
 .search-overlay__header {
@@ -786,8 +966,15 @@ select {
 }
 
 .search-overlay__body {
+  display: grid;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.search-overlay__results {
+  min-height: 0;
   overflow: auto;
-  min-height: 240px;
+  padding-right: 0.2rem;
 }
 
 .search-overlay__empty {
@@ -862,6 +1049,21 @@ select {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes toc-pulse {
+  0% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(125, 33, 23, 0.2);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(125, 33, 23, 0);
+  }
+  100% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(125, 33, 23, 0);
   }
 }
 
@@ -944,6 +1146,21 @@ select {
   .featured-grid,
   .reader-pagination {
     grid-template-columns: 1fr;
+  }
+
+  .quicksearch-bar,
+  .quicksearch-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .quicksearch-input {
+    min-width: 0;
+  }
+
+  .quicksearch-bar .quicksearch-button,
+  .quicksearch-toolbar .quicksearch-button {
+    width: 100%;
   }
 
   .search-overlay {
