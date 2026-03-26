@@ -12,7 +12,7 @@ import {
   getTopicMap,
   getTopics,
 } from "../../../lib/generated-data";
-import { slugKey } from "../../../lib/routes";
+import { decodeRouteSlug, slugKey } from "../../../lib/routes";
 import type { ReaderTopicRef } from "../../../lib/types";
 
 type ReaderPageProps = {
@@ -32,7 +32,7 @@ export async function generateMetadata({
   params,
 }: ReaderPageProps): Promise<Metadata> {
   const { slug } = await params;
-  const topic = await getTopicBySlug(slug);
+  const topic = await getTopicBySlug(decodeRouteSlug(slug));
 
   if (!topic) {
     return {
@@ -48,7 +48,7 @@ export async function generateMetadata({
 
 export default async function ReaderPage({ params }: ReaderPageProps) {
   const { slug } = await params;
-  const decoded = slug.map(s => decodeURIComponent(s));
+  const decoded = decodeRouteSlug(slug);
   const topic = await getTopicBySlug(decoded);
 
   if (!topic) {

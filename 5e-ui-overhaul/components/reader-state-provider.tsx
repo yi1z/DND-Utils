@@ -8,6 +8,7 @@ import {
   useState,
 } from "react";
 
+import { canonicalizeTopicHref } from "../lib/routes";
 import type { ReaderState, ReaderTopicRef } from "../lib/types";
 
 type ReaderStateContextValue = {
@@ -26,6 +27,21 @@ const defaultState: ReaderState = {
   lastVisited: null,
 };
 
+function normalizeTopicRef(topic: ReaderTopicRef): ReaderTopicRef {
+  return {
+    ...topic,
+    href: canonicalizeTopicHref(topic.slugKey),
+  };
+}
+
+function normalizeReaderState(state: ReaderState): ReaderState {
+  return {
+    favorites: state.favorites.map(normalizeTopicRef),
+    recentHistory: state.recentHistory.map(normalizeTopicRef),
+    lastVisited: state.lastVisited ? normalizeTopicRef(state.lastVisited) : null,
+  };
+}
+
 const ReaderStateContext = createContext<ReaderStateContextValue | null>(null);
 
 export function ReaderStateProvider({
@@ -40,7 +56,7 @@ export function ReaderStateProvider({
     try {
       const saved = window.localStorage.getItem(STORAGE_KEY);
       if (saved) {
-        setState(JSON.parse(saved) as ReaderState);
+        setState(normalizeReaderState(JSON.parse(saved) as ReaderState));
       }
     } catch {
       setState(defaultState);
@@ -70,7 +86,7 @@ export function ReaderStateProvider({
             ? current.favorites.filter(
                 (favorite) => favorite.slugKey !== topic.slugKey,
               )
-            : [topic, ...current.favorites].slice(0, 48),
+            : [normalizeTopicRef(topic), ...current.favorites].slice(0, 48),
         };
       });
     });
@@ -81,12 +97,12 @@ export function ReaderStateProvider({
       setState((current) => ({
         ...current,
         recentHistory: [
-          topic,
+          normalizeTopicRef(topic),
           ...current.recentHistory.filter(
             (entry) => entry.slugKey !== topic.slugKey,
           ),
         ].slice(0, 12),
-        lastVisited: topic,
+        lastVisited: normalizeTopicRef(topic),
       }));
     });
   }

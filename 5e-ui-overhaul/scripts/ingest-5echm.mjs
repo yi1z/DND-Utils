@@ -64,7 +64,7 @@ function slugKey(slug) {
 }
 
 function routeFromSlug(slug) {
-  return `/read/${slug.join("/")}/`;
+  return `/read/${slug.map((segment) => encodeURIComponent(segment)).join("/")}/`;
 }
 
 function decodeHtml(input) {

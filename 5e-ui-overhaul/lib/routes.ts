@@ -5,5 +5,19 @@ export function slugKey(slug: Slug): string {
 }
 
 export function routeFromSlug(slug: Slug): string {
-  return `/read/${slug.join("/")}/`;
+  return `/read/${slug.map((segment) => encodeURIComponent(segment)).join("/")}/`;
+}
+
+export function decodeRouteSlug(slug: Slug): Slug {
+  return slug.map((segment) => {
+    try {
+      return decodeURIComponent(segment);
+    } catch {
+      return segment;
+    }
+  });
+}
+
+export function canonicalizeTopicHref(slugKeyValue: string): string {
+  return routeFromSlug(slugKeyValue.split("/"));
 }
