@@ -4,9 +4,13 @@ import { notFound } from "next/navigation";
 
 import { AppShell } from "../../../components/app-shell";
 import { FavoriteToggle } from "../../../components/favorite-toggle";
-import { SidebarTree } from "../../../components/sidebar-tree";
 import { TopicVisitTracker } from "../../../components/topic-visit-tracker";
-import { getReaderData, getTopicBySlug, getTopicHtml } from "../../../lib/generated-data";
+import {
+  getTopicBySlug,
+  getTopicHtml,
+  getTopicMap,
+  getTopics,
+} from "../../../lib/generated-data";
 import { slugKey } from "../../../lib/routes";
 import type { ReaderTopicRef } from "../../../lib/types";
 
@@ -19,7 +23,7 @@ type ReaderPageProps = {
 export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  const { topics } = await getReaderData();
+  const topics = await getTopics();
   return topics.map((topic) => ({ slug: topic.slug }));
 }
 
@@ -50,7 +54,7 @@ export default async function ReaderPage({ params }: ReaderPageProps) {
     notFound();
   }
 
-  const { toc, topicMap } = await getReaderData();
+  const topicMap = await getTopicMap();
   const html = await getTopicHtml(topic.htmlFile);
   const previousTopic = topic.prevSlug ? topicMap.get(slugKey(topic.prevSlug)) : null;
   const nextTopic = topic.nextSlug ? topicMap.get(slugKey(topic.nextSlug)) : null;
@@ -65,13 +69,8 @@ export default async function ReaderPage({ params }: ReaderPageProps) {
 
   return (
     <AppShell
-      nav={
-        <SidebarTree
-          nodes={toc}
-          activeSlugKey={topic.slugKey}
-          activeTrailIds={topic.navTrailIds}
-        />
-      }
+      activeSlugKey={topic.slugKey}
+      activeTrailIds={topic.navTrailIds}
       meta={
         <div className="meta-stack">
           <div className="meta-card">

@@ -1,10 +1,9 @@
 import { AppShell } from "../components/app-shell";
 import { HomePanels } from "../components/home-panels";
 import { SearchTrigger } from "../components/search-trigger";
-import { SidebarTree } from "../components/sidebar-tree";
-import { getReaderData } from "../lib/generated-data";
+import { getToc, getTopics } from "../lib/generated-data";
 import { routeFromSlug } from "../lib/routes";
-import type { NavNode } from "../lib/types";
+import type { NavNode, TopicEntry } from "../lib/types";
 
 function countTopics(node: NavNode): number {
   const selfCount = node.slug ? 1 : 0;
@@ -24,9 +23,7 @@ function findFirstHref(node: NavNode): string | null {
   return null;
 }
 
-function pickFeaturedTopics(
-  topics: Awaited<ReturnType<typeof getReaderData>>["topics"],
-) {
+function pickFeaturedTopics(topics: TopicEntry[]) {
   const patterns = [/写在前面/, /速查/, /法术/, /怪物/, /玩家手册2024/];
   const featured = [];
   const seen = new Set<string>();
@@ -58,12 +55,12 @@ function pickFeaturedTopics(
 }
 
 export default async function HomePage() {
-  const { toc, topics } = await getReaderData();
+  const [toc, topics] = await Promise.all([getToc(), getTopics()]);
   const featured = pickFeaturedTopics(topics);
   const topLevelCollections = toc.slice(0, 12);
 
   return (
-    <AppShell nav={<SidebarTree nodes={toc} />}>
+    <AppShell>
       <div className="home-view">
         <section className="hero-card">
           <div className="hero-card__copy">

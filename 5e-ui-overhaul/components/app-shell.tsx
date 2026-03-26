@@ -10,6 +10,7 @@ import {
 } from "react";
 
 import { SearchOverlay } from "./search-overlay";
+import { SidebarNav } from "./sidebar-nav";
 
 type ShellControlsContextValue = {
   openSearch: () => void;
@@ -28,13 +29,15 @@ function isEditableTarget(target: EventTarget | null) {
 }
 
 export function AppShell({
-  nav,
   children,
   meta,
+  activeSlugKey,
+  activeTrailIds = [],
 }: Readonly<{
-  nav: React.ReactNode;
   children: React.ReactNode;
   meta?: React.ReactNode;
+  activeSlugKey?: string;
+  activeTrailIds?: string[];
 }>) {
   const [navOpen, setNavOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -78,7 +81,12 @@ export function AppShell({
         />
 
         <aside className="app-shell__sidebar">
-          <div className="app-shell__sidebar-frame">{nav}</div>
+          <div className="app-shell__sidebar-frame">
+            <SidebarNav
+              activeSlugKey={activeSlugKey}
+              activeTrailIds={activeTrailIds}
+            />
+          </div>
         </aside>
 
         <div className="app-shell__frame">

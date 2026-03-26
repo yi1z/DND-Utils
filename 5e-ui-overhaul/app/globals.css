@@ -464,11 +464,11 @@ select {
   margin-top: 0.25rem;
 }
 
-.sidebar-tree details {
+.sidebar-tree__group {
   border-radius: 1rem;
 }
 
-.sidebar-tree summary,
+.sidebar-tree__summary,
 .sidebar-tree__link {
   display: flex;
   align-items: center;
@@ -478,25 +478,25 @@ select {
   border-radius: 0.85rem;
 }
 
-.sidebar-tree summary {
+.sidebar-tree__summary {
+  width: 100%;
+  border: 0;
+  background: transparent;
   cursor: pointer;
-  list-style: none;
+  color: inherit;
+  text-align: left;
 }
 
-.sidebar-tree summary::-webkit-details-marker {
-  display: none;
-}
-
-.sidebar-tree summary small {
+.sidebar-tree__summary small {
   color: var(--ink-soft);
 }
 
-.sidebar-tree summary:hover,
+.sidebar-tree__summary:hover,
 .sidebar-tree__link:hover {
   background: rgba(125, 33, 23, 0.08);
 }
 
-.sidebar-tree summary.is-active,
+.sidebar-tree__summary.is-active,
 .sidebar-tree__link.is-active {
   background: rgba(125, 33, 23, 0.12);
   color: var(--accent);
@@ -513,6 +513,38 @@ select {
 
 .sidebar-tree__overview {
   font-size: 0.94rem;
+}
+
+.sidebar-tree--status {
+  display: grid;
+  gap: 1rem;
+  min-height: 100%;
+}
+
+.sidebar-tree__status {
+  display: grid;
+  gap: 0.85rem;
+  align-content: start;
+  padding: 0.7rem;
+  border-radius: 1.15rem;
+  border: 1px solid rgba(125, 33, 23, 0.08);
+  background: rgba(255, 255, 255, 0.56);
+  color: var(--ink-soft);
+}
+
+.sidebar-tree__status--loading {
+  grid-auto-flow: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.sidebar-tree__pulse {
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #7d2117, #b95c24);
+  box-shadow: 0 0 0 0 rgba(125, 33, 23, 0.2);
+  animation: toc-pulse 1.4s ease-in-out infinite;
 }
 
 .reader-view {
@@ -862,6 +894,21 @@ select {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes toc-pulse {
+  0% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(125, 33, 23, 0.2);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 10px rgba(125, 33, 23, 0);
+  }
+  100% {
+    transform: scale(0.92);
+    box-shadow: 0 0 0 0 rgba(125, 33, 23, 0);
   }
 }
 
