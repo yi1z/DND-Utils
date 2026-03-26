@@ -5,5 +5,5 @@ export function slugKey(slug: Slug): string {
 }
 
 export function routeFromSlug(slug: Slug): string {
-  return `/read/${slug.map((segment) => encodeURIComponent(segment)).join("/")}/`;
+  return `/read/${slug.join("/")}/`;
 }
