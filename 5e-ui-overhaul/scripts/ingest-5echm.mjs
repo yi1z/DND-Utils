@@ -83,14 +83,71 @@ function decodeHtml(input) {
   );
 }
 
+function stripNonContentMarkup(input) {
+  return input
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, " ")
+    .replace(/<head\b[^>]*>[\s\S]*?<\/head>/gi, " ")
+    .replace(/<title\b[^>]*>[\s\S]*?<\/title>/gi, " ")
+    .replace(/<(?:meta|link)\b[^>]*\/?>/gi, " ");
+}
+
 function stripTags(input) {
-  return decodeHtml(input)
+  return decodeHtml(stripNonContentMarkup(input))
     .replace(/<br\s*\/?>/gi, "\n")
     .replace(/<\/p>/gi, "\n\n")
     .replace(/<\/div>/gi, "\n")
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function normalizeComparison(input) {
+  return stripTags(input)
+    .toLowerCase()
+    .replace(/[^\p{Letter}\p{Number}\u3400-\u9fff]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function trimRepeatedTitle(text, title) {
+  const trimmed = text.trim();
+  if (!title) {
+    return trimmed;
+  }
+
+  if (trimmed.startsWith(title)) {
+    return trimmed.slice(title.length).trim();
+  }
+
+  return trimmed;
+}
+
+function isMeaningfulExcerptCandidate(candidate, titleKey) {
+  const normalized = normalizeComparison(candidate);
+  if (!normalized) {
+    return false;
+  }
+
+  return normalized !== titleKey && normalized.length >= 8;
+}
+
+function createExcerpt(html, title, headings, limit = 160) {
+  const titleKey = normalizeComparison(title);
+  const candidateText = stripNonContentMarkup(html);
+  const blockCandidates = [...candidateText.matchAll(/<(p|li|blockquote)\b[^>]*>([\s\S]*?)<\/\1>/gi)]
+    .map((match) => trimRepeatedTitle(stripTags(match[2]), title))
+    .filter((candidate) => isMeaningfulExcerptCandidate(candidate, titleKey));
+
+  const headingCandidates = headings
+    .map((heading) => trimRepeatedTitle(heading, title))
+    .filter((candidate) => isMeaningfulExcerptCandidate(candidate, titleKey));
+
+  const plainText = trimRepeatedTitle(stripTags(candidateText), title);
+  const excerptSource = blockCandidates[0] ?? headingCandidates[0] ?? plainText;
+
+  return excerptSource.slice(0, limit);
 }
 
 function tokenizeText(input, limit = 700) {
@@ -232,6 +289,88 @@ function rewriteImages(html) {
   });
 }
 
+function annotateElementById(html, tagName, id, dataAttribute) {
+  const pattern = new RegExp(
+    `<${tagName}\\b([^>]*\\bid\\s*=\\s*(["'])${id}\\2[^>]*)>`,
+    "gi",
+  );
+
+  return html.replace(pattern, (full, attrs) => {
+    if (attrs.includes(dataAttribute.split("=")[0])) {
+      return full;
+    }
+
+    return `<${tagName}${attrs} ${dataAttribute}>`;
+  });
+}
+
+function annotateQuickSearchTable(html) {
+  return html.replace(/<table\b([^>]*)>([\s\S]*?)<\/table>/gi, (full, attrs, inner) => {
+    if (/data-quicksearch-table/i.test(attrs)) {
+      return full;
+    }
+
+    if (/<tr\b[^>]*\bmonster=/i.test(inner)) {
+      return `<table${attrs} data-quicksearch-table="true" data-quicksearch-mode="monster">${inner}</table>`;
+    }
+
+    if (/<tr\b[^>]*\bspell=/i.test(inner)) {
+      return `<table${attrs} data-quicksearch-table="true" data-quicksearch-mode="spell">${inner}</table>`;
+    }
+
+    return full;
+  });
+}
+
+function annotateQuickSearchMarkup(html) {
+  if (
+    !/search\(\)|toggleVisibility\(\)|select_all\(|\bid\s*=\s*["']input["']/i.test(html)
+  ) {
+    return html;
+  }
+
+  let nextHtml = html
+    .replace(
+      /\s+onclick\s*=\s*(["'])\s*search\(\)\s*;?\s*\1/gi,
+      ' data-quicksearch-submit="true"',
+    )
+    .replace(
+      /\s+onclick\s*=\s*(["'])\s*toggleVisibility\(\)\s*;?\s*\1/gi,
+      ' data-quicksearch-toggle="true"',
+    )
+    .replace(
+      /\s+onclick\s*=\s*(["'])\s*select_all\(\s*['"]([^'"]+)['"]\s*\)\s*;?\s*\1/gi,
+      ' data-quicksearch-select-all="$2"',
+    );
+
+  nextHtml = annotateElementById(
+    nextHtml,
+    "input",
+    "input",
+    'data-quicksearch-input="true"',
+  );
+  nextHtml = annotateElementById(
+    nextHtml,
+    "div",
+    "filterDiv",
+    'data-quicksearch-filters="true"',
+  );
+  nextHtml = annotateElementById(
+    nextHtml,
+    "select",
+    "crMinSelect",
+    'data-quicksearch-cr="min"',
+  );
+  nextHtml = annotateElementById(
+    nextHtml,
+    "select",
+    "crMaxSelect",
+    'data-quicksearch-cr="max"',
+  );
+
+  return annotateQuickSearchTable(nextHtml);
+}
+
 async function parseToc() {
   const tocFile = await fs.readFile(path.join(sourceRoot, "webhelpcontents.htm"), "utf8");
   const lines = tocFile.split(/\r?\n/);
@@ -329,6 +468,7 @@ async function buildTopicDrafts(topicFiles) {
     let body = bodyMatch?.[1] ?? html;
 
     body = body.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "");
+    body = annotateQuickSearchMarkup(body);
     body = body.replace(/\son[a-z]+\s*=\s*(".*?"|'.*?'|[^\s>]+)/gi, "");
     body = rewriteAttributes(body, filePath);
     body = hardenExternalLinks(body);
@@ -337,12 +477,12 @@ async function buildTopicDrafts(topicFiles) {
     const inlineStyles =
       styleBlocks.length > 0 ? `<style>${styleBlocks.join("\n")}</style>\n` : "";
     const transformedHtml = `${inlineStyles}${body}`.trim();
-    const plainText = stripTags(transformedHtml);
-    const headings = [...transformedHtml.matchAll(/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi)]
+    const plainText = stripTags(body);
+    const headings = [...body.matchAll(/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi)]
       .map((match) => stripTags(match[2]))
       .filter(Boolean)
       .slice(0, 18);
-    const excerpt = plainText.slice(0, 160);
+    const excerpt = createExcerpt(body, titleFromHead, headings);
     const hash = crypto.createHash("sha1").update(slugId).digest("hex");
 
     drafts.push({

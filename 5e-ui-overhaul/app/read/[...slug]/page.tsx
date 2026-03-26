@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { AppShell } from "../../../components/app-shell";
 import { FavoriteToggle } from "../../../components/favorite-toggle";
+import { QuickSearchEnhancer } from "../../../components/quick-search-enhancer";
 import { TopicVisitTracker } from "../../../components/topic-visit-tracker";
 import {
   getTopicBySlug,
@@ -118,8 +119,10 @@ export default async function ReaderPage({ params }: ReaderPageProps) {
         <section className="reader-article">
           <article
             className="reader-content"
+            data-topic-key={topic.slugKey}
             dangerouslySetInnerHTML={{ __html: html }}
           />
+          <QuickSearchEnhancer topicKey={topic.slugKey} />
 
           <div className="reader-pagination">
             {previousTopic ? (
